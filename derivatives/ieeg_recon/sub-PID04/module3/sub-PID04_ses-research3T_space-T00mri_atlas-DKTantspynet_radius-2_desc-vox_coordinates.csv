@@ -1,0 +1,120 @@
+,name,x,y,z,index,label
+0,LAT1,77.2484,152.765,41.9172,1009.0, left inferior temporal 
+1,LAT2,73.9384,144.825,37.0272,1006.0, left entorhinal 
+2,LAT3,66.0759,138.271,33.9171,1009.0, left inferior temporal 
+3,LAT4,56.3,134.762,35.9328,0.0,EmptyLabel
+4,LDA1,82.7845,135.006,56.0531,0.0,EmptyLabel
+5,LDA2,78.2529,135.135,53.7107,0.0,EmptyLabel
+6,LDA3,73.1875,134.599,52.2833,17.0, left hippocampus 
+7,LDA4,68.0562,134.579,50.8909,0.0,EmptyLabel
+8,LDH1,75.2621,121.691,52.444,1016.0, left parahippocampal 
+9,LDH2,70.5144,122.764,51.1651,0.0,EmptyLabel
+10,LDH3,65.2327,123.17,50.8013,1016.0, left parahippocampal 
+11,LDH4,60.0169,123.062,50.4024,1007.0, left fusiform 
+12,LPT1,72.6409,92.6524,56.035,6.0, left cerebellem exterior 
+13,LPT2,66.497,100.222,50.1226,6.0, left cerebellem exterior 
+14,LPT3,60.7646,107.163,46.2055,1007.0, left fusiform 
+15,LPT4,54.1507,115.413,44.337,0.0,EmptyLabel
+16,RAT1,112.885,136.887,47.38,2006.0, right entorhinal 
+17,RAT2,120.005,136.276,39.813,0.0,EmptyLabel
+18,RAT3,128.369,136.707,34.4331,0.0,EmptyLabel
+19,RAT4,138.408,138.155,32.2772,0.0,EmptyLabel
+20,RDA1,106.242,136.355,56.9073,0.0,EmptyLabel
+21,RDA2,111.524,135.948,57.2712,0.0,EmptyLabel
+22,RDA3,116.824,136.144,56.6766,53.0, right hippocampus 
+23,RDA4,122.106,135.737,57.0405,53.0, right hippocampus 
+24,RDH1,112.615,121.797,58.2685,0.0,EmptyLabel
+25,RDH2,117.699,122.936,58.7375,0.0,EmptyLabel
+26,RDH3,123.0,123.132,58.1429,0.0,EmptyLabel
+27,RDH4,128.3,123.328,57.5484,0.0,EmptyLabel
+28,RG1,136.223,145.584,34.703,0.0,EmptyLabel
+29,RG2,143.585,138.918,37.7569,2009.0, right inferior temporal 
+30,RG3,146.554,130.886,44.4023,2009.0, right inferior temporal 
+31,RG4,151.087,123.645,50.2196,2009.0, right inferior temporal 
+32,RG5,153.626,115.639,55.8282,0.0,EmptyLabel
+33,RG6,155.349,108.425,63.4505,2015.0, right middle temporal 
+34,RG7,156.839,99.6916,69.9307,2015.0, right middle temporal 
+35,RG8,156.652,91.8012,76.3509,0.0,EmptyLabel
+36,RG9,140.048,153.587,39.6364,2009.0, right inferior temporal 
+37,RG10,145.761,146.043,44.512,2009.0, right inferior temporal 
+38,RG11,148.665,138.527,51.1925,2015.0, right middle temporal 
+39,RG12,151.653,131.098,56.8796,2015.0, right middle temporal 
+40,RG13,153.507,122.854,64.4317,0.0,EmptyLabel
+41,RG14,154.351,115.089,70.9387,2015.0, right middle temporal 
+42,RG15,155.26,106.808,77.4106,0.0,EmptyLabel
+43,RG16,155.588,98.9795,83.8741,0.0,EmptyLabel
+44,RG17,143.0,160.574,49.4587,2015.0, right middle temporal 
+45,RG18,147.065,152.152,56.1559,0.0,EmptyLabel
+46,RG19,147.478,144.411,61.626,0.0,EmptyLabel
+47,RG20,149.053,135.765,67.1128,2030.0, right superior temporal 
+48,RG21,151.658,127.244,72.6864,0.0,EmptyLabel
+49,RG22,153.016,119.54,79.2367,0.0,EmptyLabel
+50,RG23,153.046,110.707,84.5933,2030.0, right superior temporal 
+51,RG24,153.506,101.848,90.9868,0.0,EmptyLabel
+52,RG25,140.438,166.447,57.7751,2030.0, right superior temporal 
+53,RG26,144.007,158.565,63.4705,2030.0, right superior temporal 
+54,RG27,146.012,149.894,69.9942,2030.0, right superior temporal 
+55,RG28,147.521,141.763,75.516,0.0,EmptyLabel
+56,RG29,150.06,133.756,81.1247,2030.0, right superior temporal 
+57,RG30,152.084,125.688,86.6899,2022.0, right postcentral 
+58,RG31,152.478,117.345,93.1184,2022.0, right postcentral 
+59,RG32,152.423,108.424,99.4685,2031.0, right supramarginal 
+60,RG33,138.677,81.121,123.5,2029.0, right superior parietal 
+61,RG34,143.843,91.3204,122.664,0.0,EmptyLabel
+62,RG35,147.764,100.477,119.642,0.0,EmptyLabel
+63,RG36,149.045,109.838,116.437,2022.0, right postcentral 
+64,RG37,148.799,119.614,112.144,0.0,EmptyLabel
+65,RG38,148.188,128.9,106.779,2024.0, right precentral 
+66,RG39,146.978,138.037,102.364,0.0,EmptyLabel
+67,RG40,145.862,144.936,99.7961,0.0,EmptyLabel
+68,RG41,144.048,77.0806,116.542,0.0,EmptyLabel
+69,RG42,149.925,85.7965,115.645,2031.0, right supramarginal 
+70,RG43,152.17,95.797,112.562,2031.0, right supramarginal 
+71,RG44,151.475,104.996,108.191,0.0,EmptyLabel
+72,RG45,150.799,114.797,102.861,2022.0, right postcentral 
+73,RG46,150.104,123.996,98.4895,2022.0, right postcentral 
+74,RG47,148.894,133.132,94.0746,0.0,EmptyLabel
+75,RG48,146.739,142.231,88.5795,0.0,EmptyLabel
+76,RG49,119.147,206.12,81.4032,0.0,EmptyLabel
+77,RG50,128.821,201.826,84.8142,2027.0, right rostral middle frontal 
+78,RG51,135.087,195.55,87.8163,2027.0, right rostral middle frontal 
+79,RG52,139.603,185.845,91.4281,0.0,EmptyLabel
+80,RG53,141.629,175.916,93.8294,2020.0, right pars triangularis 
+81,RG54,143.205,165.409,96.1522,0.0,EmptyLabel
+82,RG55,144.716,155.418,98.5101,0.0,EmptyLabel
+83,RG56,144.158,147.501,97.8543,2024.0, right precentral 
+84,RG57,116.848,209.931,89.5794,0.0,EmptyLabel
+85,RG58,125.024,204.333,93.7836,0.0,EmptyLabel
+86,RG59,131.487,196.511,96.6806,2027.0, right rostral middle frontal 
+87,RG60,135.937,187.321,100.327,2027.0, right rostral middle frontal 
+88,RG61,139.443,178.094,102.894,0.0,EmptyLabel
+89,RG62,142.498,168.29,105.382,2027.0, right rostral middle frontal 
+90,RG63,144.59,157.845,107.748,2027.0, right rostral middle frontal 
+91,RG64,146.166,147.339,110.071,2024.0, right precentral 
+92,RMT1,113.209,115.298,54.7891,0.0,EmptyLabel
+93,RMT2,121.461,117.363,48.5209,0.0,EmptyLabel
+94,RMT3,130.957,120.47,44.4399,0.0,EmptyLabel
+95,RMT4,139.787,123.942,41.344,0.0,EmptyLabel
+96,ROF1,83.9695,165.945,59.5482,1012.0, left lateral orbitofrontal 
+97,ROF2,92.3601,166.516,59.214,0.0,EmptyLabel
+98,ROF4,113.541,168.558,60.9581,0.0,EmptyLabel
+99,ROF5,123.907,169.29,61.791,0.0,EmptyLabel
+100,ROF6,133.702,168.151,65.4557,0.0,EmptyLabel
+101,RP1,104.543,59.4865,122.286,2029.0, right superior parietal 
+102,RP2,113.165,63.4381,126.258,2029.0, right superior parietal 
+103,RP3,121.777,69.714,127.389,0.0,EmptyLabel
+104,RP4,129.828,77.0457,127.554,0.0,EmptyLabel
+105,RP5,137.448,84.4028,126.682,0.0,EmptyLabel
+106,RP6,143.692,91.748,123.693,0.0,EmptyLabel
+107,RP7,147.698,100.993,119.677,0.0,EmptyLabel
+108,RP8,149.729,110.076,114.494,2022.0, right postcentral 
+109,RPT1,120.969,79.0856,52.5613,45.0, right cerebellum exterior 
+110,RPT2,129.339,86.1651,49.7107,45.0, right cerebellum exterior 
+111,RPT3,136.594,93.0321,47.7668,45.0, right cerebellum exterior 
+112,RPT4,144.365,99.9615,45.8662,0.0,EmptyLabel
+113,RTO1,118.064,42.7293,95.827,2029.0, right superior parietal 
+114,RTO2,128.42,45.7857,93.8197,2008.0, right inferior parietal 
+115,RTO3,137.55,50.2633,91.8307,2008.0, right inferior parietal 
+116,RTO4,146.052,56.3122,88.91,2008.0, right inferior parietal 
+117,RTO5,151.781,63.5951,85.8775,2008.0, right inferior parietal 
+118,RTO6,155.853,72.3245,81.8265,0.0,EmptyLabel

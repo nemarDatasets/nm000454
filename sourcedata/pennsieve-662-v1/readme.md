@@ -1,0 +1,1 @@
+This dataset comprises multimodal paired 3T and 7T MRI scans collected from 30 patients with drug-resistant focal epilepsy along with intracranial EEG data.

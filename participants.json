@@ -1,0 +1,53 @@
+{
+  "participant_id": {
+    "Description": "Subject identifier as released (PIDxx)"
+  },
+  "sex": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx \"Sex assigned at birth\""
+  },
+  "handedness": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "age_at_onset": {
+    "Units": "years",
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx \"Age at seizure onset?\""
+  },
+  "seizure_types": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "soz_or_focus": {
+    "Description": "Seizure Onset Localization (lobe level)",
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "soz_lateralization": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx \"Seizure Onset Lateralization:\""
+  },
+  "mri_result": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "mri_lesion_type": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "mri_lesion_laterality": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "mri_lesion_localization": {
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 files/metadata_3T_7T.xlsx"
+  },
+  "diagnosis": {
+    "Description": "cohort statement: drug-resistant focal epilepsy",
+    "Source": "doi:10.1038/s41597-026-07540-5 (Sci Data 2026, \"A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG\", PMC13582879)"
+  },
+  "has_ieeg_localisation": {
+    "Description": "yes if derivatives/sub-*/recon/ieeg_recon exists (15 subjects)",
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 file listing"
+  },
+  "n_contacts": {
+    "Description": "number of localised contacts (module2 electrode_names.txt)",
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 derivatives/sub-*/recon/ieeg_recon/module2"
+  },
+  "regions_sampled": {
+    "Description": "coarse regions of DKT (antspynet) labels; n/a for the 3 subjects without module3 atlas files",
+    "Source": "https://discover.pennsieve.io/datasets/662/version/1 module3 *DKTantspynet* csv"
+  }
+}

@@ -1,0 +1,1960 @@
+{
+  "name": "AF1",
+  "x": 105.497,
+  "y": 206.411,
+  "z": 79.8689,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.1818181818,
+    0.0303030303
+  ]
+}
+{
+  "name": "AF2",
+  "x": 111.256,
+  "y": 199.408,
+  "z": 85.4277,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "AF3",
+  "x": 117.46,
+  "y": 192.789,
+  "z": 91.1566,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "AF4",
+  "x": 122.418,
+  "y": 185.383,
+  "z": 95.4399,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "AF5",
+  "x": 127.775,
+  "y": 176.729,
+  "z": 99.3268,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2424242424
+  ]
+}
+{
+  "name": "AF6",
+  "x": 131.807,
+  "y": 167.33,
+  "z": 102.845,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "AST1",
+  "x": 111.213,
+  "y": 142.239,
+  "z": 32.587,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "EmptyLabel",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0606060606,
+    0.0303030303
+  ]
+}
+{
+  "name": "AST2",
+  "x": 119.834,
+  "y": 141.173,
+  "z": 27.6027,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5757575758,
+    0.4242424242
+  ]
+}
+{
+  "name": "AST3",
+  "x": 130.333,
+  "y": 140.971,
+  "z": 27.3518,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "AST4",
+  "x": 139.538,
+  "y": 139.8,
+  "z": 32.0035,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "DA1",
+  "x": 110.755,
+  "y": 123.833,
+  "z": 48.6606,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "DA2",
+  "x": 116.405,
+  "y": 123.934,
+  "z": 49.1729,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DA3",
+  "x": 121.621,
+  "y": 124.058,
+  "z": 49.6567,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "DA4",
+  "x": 126.747,
+  "y": 123.815,
+  "z": 51.0758,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DEC1",
+  "x": 127.079,
+  "y": 129.855,
+  "z": 51.0461,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.2727272727,
+    0.2121212121
+  ]
+}
+{
+  "name": "DEC2",
+  "x": 132.385,
+  "y": 130.346,
+  "z": 50.5946,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DEC3",
+  "x": 137.246,
+  "y": 130.452,
+  "z": 49.9729,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DEC4",
+  "x": 142.642,
+  "y": 131.309,
+  "z": 48.5861,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DH1",
+  "x": 118.787,
+  "y": 120.385,
+  "z": 55.6364,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "deep gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.4242424242,
+    0.3636363636,
+    0.1818181818,
+    0.0303030303
+  ]
+}
+{
+  "name": "DH2",
+  "x": 124.539,
+  "y": 121.261,
+  "z": 55.355,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "DH3",
+  "x": 129.845,
+  "y": 121.751,
+  "z": 54.9035,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "DH4",
+  "x": 135.151,
+  "y": 122.242,
+  "z": 54.452,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHA1",
+  "x": 123.538,
+  "y": 88.0159,
+  "z": 61.9948,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHA2",
+  "x": 128.536,
+  "y": 90.1214,
+  "z": 61.0043,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHA3",
+  "x": 133.443,
+  "y": 91.8604,
+  "z": 60.9491,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHA4",
+  "x": 138.339,
+  "y": 93.1911,
+  "z": 60.7523,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHP1",
+  "x": 113.577,
+  "y": 93.3187,
+  "z": 70.4634,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHP2",
+  "x": 118.235,
+  "y": 91.8752,
+  "z": 71.4291,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "DHP3",
+  "x": 123.416,
+  "y": 90.7747,
+  "z": 71.4881,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "DHP4",
+  "x": 128.495,
+  "y": 88.8993,
+  "z": 72.3408,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "G1",
+  "x": 139.194,
+  "y": 140.191,
+  "z": 31.0397,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "G2",
+  "x": 143.937,
+  "y": 130.827,
+  "z": 36.7687,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "G3",
+  "x": 147.914,
+  "y": 122.286,
+  "z": 41.647,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G4",
+  "x": 151.012,
+  "y": 113.383,
+  "z": 46.3267,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G5",
+  "x": 154.145,
+  "y": 105.706,
+  "z": 51.4312,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1515151515,
+    0.0303030303
+  ]
+}
+{
+  "name": "G6",
+  "x": 153.172,
+  "y": 96.6918,
+  "z": 57.8664,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "G7",
+  "x": 150.487,
+  "y": 88.5889,
+  "z": 64.4708,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G8",
+  "x": 146.958,
+  "y": 81.3497,
+  "z": 71.3013,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G9",
+  "x": 144.159,
+  "y": 145.422,
+  "z": 38.6073,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G10",
+  "x": 148.226,
+  "y": 137.247,
+  "z": 42.5503,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G11",
+  "x": 152.637,
+  "y": 128.682,
+  "z": 47.4571,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "G12",
+  "x": 154.813,
+  "y": 120.685,
+  "z": 53.4398,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "G13",
+  "x": 156.52,
+  "y": 111.487,
+  "z": 58.9693,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "G14",
+  "x": 155.66,
+  "y": 103.656,
+  "z": 64.7524,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "G15",
+  "x": 153.408,
+  "y": 95.5293,
+  "z": 71.3853,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "G16",
+  "x": 150.735,
+  "y": 87.8346,
+  "z": 78.1313,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "G17",
+  "x": 135.825,
+  "y": 156.282,
+  "z": 35.2287,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1515151515,
+    0.0303030303
+  ]
+}
+{
+  "name": "G18",
+  "x": 142.041,
+  "y": 150.072,
+  "z": 41.0992,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "G19",
+  "x": 147.288,
+  "y": 143.134,
+  "z": 47.7064,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "G20",
+  "x": 152.101,
+  "y": 136.22,
+  "z": 54.2851,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3333333333,
+    0.0606060606
+  ]
+}
+{
+  "name": "G21",
+  "x": 155.077,
+  "y": 128.625,
+  "z": 61.5433,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "G22",
+  "x": 155.975,
+  "y": 121.516,
+  "z": 67.7238,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G23",
+  "x": 155.982,
+  "y": 113.638,
+  "z": 73.5639,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G24",
+  "x": 154.165,
+  "y": 105.487,
+  "z": 80.2253,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.2727272727,
+    0.0909090909
+  ]
+}
+{
+  "name": "G25",
+  "x": 136.066,
+  "y": 163.407,
+  "z": 43.049,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.2121212121
+  ]
+}
+{
+  "name": "G26",
+  "x": 142.817,
+  "y": 157.947,
+  "z": 48.1543,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G27",
+  "x": 147.619,
+  "y": 150.625,
+  "z": 54.5914,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G28",
+  "x": 151.131,
+  "y": 143.781,
+  "z": 61.0845,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G29",
+  "x": 153.24,
+  "y": 136.234,
+  "z": 68.2858,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5757575758,
+    0.3333333333,
+    0.0909090909
+  ]
+}
+{
+  "name": "G30",
+  "x": 153.692,
+  "y": 128.741,
+  "z": 74.2961,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4545454545,
+    0.0303030303
+  ]
+}
+{
+  "name": "G31",
+  "x": 152.754,
+  "y": 120.951,
+  "z": 81.1561,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3939393939
+  ]
+}
+{
+  "name": "G32",
+  "x": 151.472,
+  "y": 113.552,
+  "z": 87.0523,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "G33",
+  "x": 141.166,
+  "y": 173.538,
+  "z": 64.0772,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3939393939
+  ]
+}
+{
+  "name": "G34",
+  "x": 143.909,
+  "y": 164.618,
+  "z": 67.6514,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G35",
+  "x": 146.55,
+  "y": 154.923,
+  "z": 72.0194,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G36",
+  "x": 150.582,
+  "y": 145.524,
+  "z": 75.5376,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2121212121,
+    0.0303030303
+  ]
+}
+{
+  "name": "G37",
+  "x": 152.789,
+  "y": 135.852,
+  "z": 79.877,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.2121212121,
+    0.0909090909
+  ]
+}
+{
+  "name": "G38",
+  "x": 153.762,
+  "y": 125.802,
+  "z": 82.9124,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G39",
+  "x": 152.945,
+  "y": 116.705,
+  "z": 87.1938,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "G40",
+  "x": 152.616,
+  "y": 106.726,
+  "z": 90.1436,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "G41",
+  "x": 141.168,
+  "y": 177.888,
+  "z": 73.06,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "G42",
+  "x": 144.779,
+  "y": 168.921,
+  "z": 76.6913,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.1818181818,
+    0.1515151515
+  ]
+}
+{
+  "name": "G43",
+  "x": 146.974,
+  "y": 158.841,
+  "z": 80.8892,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.3333333333,
+    0.1212121212
+  ]
+}
+{
+  "name": "G44",
+  "x": 149.283,
+  "y": 149.945,
+  "z": 84.4349,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "G45",
+  "x": 150.611,
+  "y": 139.913,
+  "z": 88.5757,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "G46",
+  "x": 151.596,
+  "y": 130.271,
+  "z": 91.7527,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.4545454545,
+    0.3333333333,
+    0.2121212121
+  ]
+}
+{
+  "name": "G47",
+  "x": 150.31,
+  "y": 119.972,
+  "z": 95.5808,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "G48",
+  "x": 148.704,
+  "y": 110.881,
+  "z": 98.7282,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "G49",
+  "x": 135.977,
+  "y": 177.543,
+  "z": 89.609,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "G50",
+  "x": 140.498,
+  "y": 167.262,
+  "z": 91.7956,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.2121212121
+  ]
+}
+{
+  "name": "G51",
+  "x": 144.163,
+  "y": 157.436,
+  "z": 94.0668,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.4848484848,
+    0.4242424242,
+    0.0909090909
+  ]
+}
+{
+  "name": "G52",
+  "x": 147.051,
+  "y": 148.025,
+  "z": 95.3456,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "G53",
+  "x": 150.27,
+  "y": 137.814,
+  "z": 97.4467,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "G54",
+  "x": 151.912,
+  "y": 127.616,
+  "z": 97.2799,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.303030303,
+    0.0303030303
+  ]
+}
+{
+  "name": "G55",
+  "x": 151.283,
+  "y": 116.761,
+  "z": 97.7642,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.2727272727,
+    0.0303030303
+  ]
+}
+{
+  "name": "G56",
+  "x": 150.642,
+  "y": 105.497,
+  "z": 98.1069,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "G57",
+  "x": 131.436,
+  "y": 177.681,
+  "z": 97.826,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "G58",
+  "x": 135.523,
+  "y": 167.424,
+  "z": 99.9841,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "G59",
+  "x": 138.321,
+  "y": 157.645,
+  "z": 102.198,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "G60",
+  "x": 142.853,
+  "y": 147.772,
+  "z": 104.526,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "G61",
+  "x": 145.729,
+  "y": 137.952,
+  "z": 105.664,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "G62",
+  "x": 147.636,
+  "y": 127.405,
+  "z": 107.538,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4242424242,
+    0.0606060606
+  ]
+}
+{
+  "name": "G63",
+  "x": 147.964,
+  "y": 116.869,
+  "z": 107.144,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.4242424242,
+    0.3636363636,
+    0.2121212121
+  ]
+}
+{
+  "name": "G64",
+  "x": 146.98,
+  "y": 105.996,
+  "z": 106.522,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.303030303,
+    0.1818181818
+  ]
+}
+{
+  "name": "MST1",
+  "x": 118.326,
+  "y": 136.795,
+  "z": 27.0364,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4545454545,
+    0.0303030303
+  ]
+}
+{
+  "name": "MST2",
+  "x": 127.774,
+  "y": 133.009,
+  "z": 26.5309,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "MST3",
+  "x": 137.878,
+  "y": 130.116,
+  "z": 29.5964,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "MST4",
+  "x": 143.937,
+  "y": 130.827,
+  "z": 36.7687,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "O1",
+  "x": 101.894,
+  "y": 64.9327,
+  "z": 83.2193,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2121212121,
+    0.0303030303
+  ]
+}
+{
+  "name": "O2",
+  "x": 105.77,
+  "y": 54.1657,
+  "z": 81.9765,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4242424242,
+    0.0303030303
+  ]
+}
+{
+  "name": "O3",
+  "x": 111.542,
+  "y": 46.1198,
+  "z": 80.7622,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "O4",
+  "x": 120.826,
+  "y": 43.4566,
+  "z": 77.4223,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2121212121,
+    0.0303030303
+  ]
+}
+{
+  "name": "O5",
+  "x": 130.352,
+  "y": 46.4666,
+  "z": 74.988,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "white matter",
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.3939393939,
+    0.3939393939,
+    0.2121212121
+  ]
+}
+{
+  "name": "O6",
+  "x": 137.526,
+  "y": 52.8012,
+  "z": 71.3616,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.4545454545,
+    0.3636363636,
+    0.1818181818
+  ]
+}
+{
+  "name": "OF1",
+  "x": 105.772,
+  "y": 179.742,
+  "z": 45.0452,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2424242424,
+    0.0303030303
+  ]
+}
+{
+  "name": "OF2",
+  "x": 114.203,
+  "y": 181.884,
+  "z": 50.7727,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "OF3",
+  "x": 123.67,
+  "y": 184.304,
+  "z": 54.5451,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.303030303,
+    0.0606060606
+  ]
+}
+{
+  "name": "OF4",
+  "x": 133.047,
+  "y": 186.357,
+  "z": 59.2528,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2424242424
+  ]
+}
+{
+  "name": "OF5",
+  "x": 139.094,
+  "y": 186.66,
+  "z": 66.2836,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1515151515
+  ]
+}
+{
+  "name": "OF6",
+  "x": 139.953,
+  "y": 183.716,
+  "z": 76.0338,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.2424242424,
+    0.1212121212
+  ]
+}
+{
+  "name": "P1",
+  "x": 98.7829,
+  "y": 81.7159,
+  "z": 84.4608,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "white matter",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.303030303,
+    0.1818181818
+  ]
+}
+{
+  "name": "P2",
+  "x": 100.49,
+  "y": 72.5181,
+  "z": 89.9902,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "P3",
+  "x": 103.076,
+  "y": 63.6812,
+  "z": 95.7183,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "CSF",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.0909090909,
+    0.0303030303
+  ]
+}
+{
+  "name": "P4",
+  "x": 107.534,
+  "y": 56.7489,
+  "z": 101.191,
+  "index": 3,
+  "label": "white matter",
+  "labels_sorted": [
+    "white matter",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "P5",
+  "x": 115.836,
+  "y": 54.4009,
+  "z": 105.361,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter",
+    "white matter"
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3333333333,
+    0.0606060606
+  ]
+}
+{
+  "name": "P6",
+  "x": 125.506,
+  "y": 58.3703,
+  "z": 107.546,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "P7",
+  "x": 133.747,
+  "y": 64.7587,
+  "z": 107.236,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "P8",
+  "x": 139.533,
+  "y": 73.6969,
+  "z": 106.528,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "PST1",
+  "x": 106.328,
+  "y": 110.027,
+  "z": 51.0146,
+  "index": 5,
+  "label": "brain stem",
+  "labels_sorted": [
+    "brain stem",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "PST2",
+  "x": 115.815,
+  "y": 108.913,
+  "z": 46.0873,
+  "index": 6,
+  "label": "cerebellum",
+  "labels_sorted": [
+    "cerebellum",
+    "CSF"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "PST3",
+  "x": 125.568,
+  "y": 107.451,
+  "z": 43.2008,
+  "index": 2,
+  "label": "gray matter",
+  "labels_sorted": [
+    "gray matter",
+    "cerebellum"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "PST4",
+  "x": 136.579,
+  "y": 107.184,
+  "z": 41.9015,
+  "index": 1,
+  "label": "CSF",
+  "labels_sorted": [
+    "CSF",
+    "gray matter"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}

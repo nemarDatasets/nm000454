@@ -1,0 +1,31 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma_fit",
+  "EchoTrainLength": 9,
+  "AcquisitionNumber": 1,
+  "DeviceSerialNumber": "167024",
+  "SoftwareVersions": "syngo_MR_E11",
+  "ProcedureStepDescription": "MR_HEAD_FUNCTIONAL_LANGUAGE",
+  "ScanningSequence": "SE",
+  "SequenceVariant": "SK_SP_OSP",
+  "SeriesDescription": "T2_2D_0.4x0.4x1.2mm_180flip",
+  "BodyPartExamined": "BRAIN",
+  "ProtocolName": "T2_2D_0.4x0.4x1.2mm_180flip",
+  "SequenceName": "_tse2d1_9",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "NORM",
+    "DIS3D",
+    "DIS2D"
+  ],
+  "MagneticFieldStrength": 3,
+  "FlipAngle": 180,
+  "EchoTime": 0.08,
+  "RepetitionTime": 9.24,
+  "PhaseEncodingLines": 411,
+  "PhaseEncodingDirection": "i-",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20170624 GCC4.8.5"
+}

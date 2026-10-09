@@ -1,0 +1,29 @@
+{
+  "name": {
+    "Description": "Contact name; matched to the EDF channel label (leading zeros) where a unique match exists"
+  },
+  "anat_label": {
+    "Description": "DKT (antspynet) label within 2 mm, deposit ieeg_recon module3 *atlas-DKTantspynet_radius-2_desc-vox_coordinates.csv"
+  },
+  "tissue_atropos": {
+    "Description": "Atropos tissue class, deposit ieeg_recon module3"
+  },
+  "region_coarse": {
+    "Description": "Coarse region from anat_label (NEMAR enrichment, report/ieeg-atlas/build/regionmap.py); derived, not in the deposit"
+  },
+  "atlas_label_aal3_coarse": {
+    "Description": "AAL3 lookup of the MNI coordinates (report/ieeg-atlas/build/coord_regions.py), coarse region; derived, not in the deposit"
+  },
+  "native_T00mri_x": {
+    "Description": "Coordinate in the pre-implant MRI (T00mri) space, deposit ieeg_recon module2 *_space-T00mri_desc-mm_electrodes.txt",
+    "Units": "mm"
+  },
+  "native_T00mri_y": {
+    "Description": "see native_T00mri_x",
+    "Units": "mm"
+  },
+  "native_T00mri_z": {
+    "Description": "see native_T00mri_x",
+    "Units": "mm"
+  }
+}

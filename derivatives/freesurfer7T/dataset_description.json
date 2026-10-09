@@ -1,0 +1,17 @@
+{
+  "Name": "freesurfer7T outputs released with Pennsieve dataset 662 v1 (doi:10.26275/aosz-hj9u)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "FreeSurfer",
+      "Description": "Run by the dataset authors; version as in the files (n/a when not stated)"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.26275/aosz-hj9u",
+      "URL": "https://discover.pennsieve.io/datasets/662/version/1"
+    }
+  ]
+}

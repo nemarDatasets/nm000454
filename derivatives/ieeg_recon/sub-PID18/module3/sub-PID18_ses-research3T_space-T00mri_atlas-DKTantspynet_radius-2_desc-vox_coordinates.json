@@ -1,0 +1,1918 @@
+[
+  {
+    "name": "LA1",
+    "x": 97.2151,
+    "y": 163.547,
+    "z": 156.72,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left ventral DC "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LA2",
+    "x": 91.044,
+    "y": 163.368,
+    "z": 158.2,
+    "index": 28,
+    "label": " left ventral DC ",
+    "labels_sorted": [
+      " left ventral DC ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6363636364,
+      0.3636363636
+    ]
+  },
+  {
+    "name": "LA3",
+    "x": 84.7508,
+    "y": 164.208,
+    "z": 158.742,
+    "index": 18,
+    "label": " left amygdala ",
+    "labels_sorted": [
+      " left amygdala ",
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LA4",
+    "x": 79.1452,
+    "y": 164.572,
+    "z": 159.073,
+    "index": 18,
+    "label": " left amygdala ",
+    "labels_sorted": [
+      " left amygdala "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA5",
+    "x": 72.9352,
+    "y": 164.851,
+    "z": 159.391,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA6",
+    "x": 66.6031,
+    "y": 166.151,
+    "z": 158.771,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA7",
+    "x": 60.3543,
+    "y": 166.889,
+    "z": 157.927,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA8",
+    "x": 54.1443,
+    "y": 167.168,
+    "z": 158.245,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      " left insula ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.4848484848,
+      0.4242424242,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LA9",
+    "x": 48.0176,
+    "y": 166.886,
+    "z": 158.338,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6363636364,
+      0.3636363636
+    ]
+  },
+  {
+    "name": "LA10",
+    "x": 41.9297,
+    "y": 166.145,
+    "z": 159.594,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LA11",
+    "x": 35.9251,
+    "y": 164.843,
+    "z": 160.625,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LA12",
+    "x": 33.2253,
+    "y": 161.463,
+    "z": 164.759,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB1",
+    "x": 88.7281,
+    "y": 149.863,
+    "z": 152.947,
+    "index": 28,
+    "label": " left ventral DC ",
+    "labels_sorted": [
+      " left ventral DC ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LB2",
+    "x": 82.5181,
+    "y": 150.143,
+    "z": 153.265,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "LB3",
+    "x": 76.3081,
+    "y": 150.422,
+    "z": 153.583,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB4",
+    "x": 70.0982,
+    "y": 150.701,
+    "z": 153.901,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB5",
+    "x": 63.8882,
+    "y": 150.98,
+    "z": 154.219,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LB6",
+    "x": 57.5561,
+    "y": 152.28,
+    "z": 153.599,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB7",
+    "x": 51.8673,
+    "y": 153.205,
+    "z": 154.154,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB8",
+    "x": 45.574,
+    "y": 154.046,
+    "z": 154.697,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.0909090909,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LB9",
+    "x": 39.9241,
+    "y": 154.512,
+    "z": 156.414,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LB10",
+    "x": 34.9561,
+    "y": 154.146,
+    "z": 160.469,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.0606060606,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LB11",
+    "x": 33.2542,
+    "y": 152.161,
+    "z": 166.465,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LB12",
+    "x": 33.3653,
+    "y": 150.429,
+    "z": 172.5,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LC1",
+    "x": 61.4252,
+    "y": 205.794,
+    "z": 142.323,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC2",
+    "x": 58.4151,
+    "y": 200.543,
+    "z": 144.384,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LC3",
+    "x": 55.4494,
+    "y": 195.189,
+    "z": 145.06,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LC4",
+    "x": 52.5226,
+    "y": 189.377,
+    "z": 146.897,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LC5",
+    "x": 49.4737,
+    "y": 184.584,
+    "z": 147.796,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC6",
+    "x": 46.508,
+    "y": 179.23,
+    "z": 148.471,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LC7",
+    "x": 43.4979,
+    "y": 173.979,
+    "z": 150.533,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LC8",
+    "x": 41.0922,
+    "y": 168.813,
+    "z": 152.608,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LC9",
+    "x": 37.9545,
+    "y": 164.226,
+    "z": 156.28,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "LC10",
+    "x": 35.4212,
+    "y": 159.723,
+    "z": 159.966,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.2424242424,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LC11",
+    "x": 33.9301,
+    "y": 156.513,
+    "z": 164.127,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LC12",
+    "x": 32.999,
+    "y": 153.489,
+    "z": 169.687,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD1",
+    "x": 71.9419,
+    "y": 215.911,
+    "z": 160.754,
+    "index": 1012,
+    "label": " left lateral orbitofrontal ",
+    "labels_sorted": [
+      " left lateral orbitofrontal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD2",
+    "x": 67.307,
+    "y": 213.299,
+    "z": 163.911,
+    "index": 1012,
+    "label": " left lateral orbitofrontal ",
+    "labels_sorted": [
+      " left lateral orbitofrontal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD3",
+    "x": 63.2764,
+    "y": 210.771,
+    "z": 167.081,
+    "index": 1012,
+    "label": " left lateral orbitofrontal ",
+    "labels_sorted": [
+      " left lateral orbitofrontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "LD4",
+    "x": 59.3679,
+    "y": 207.223,
+    "z": 171.19,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars orbitalis "
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "LD5",
+    "x": 54.8161,
+    "y": 204.049,
+    "z": 174.123,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars orbitalis "
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LD6",
+    "x": 50.9076,
+    "y": 200.5,
+    "z": 178.231,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars orbitalis ",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.4242424242,
+      0.3636363636,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LD7",
+    "x": 46.9603,
+    "y": 197.411,
+    "z": 181.177,
+    "index": 1020,
+    "label": " left pars triangularis ",
+    "labels_sorted": [
+      " left pars triangularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LD8",
+    "x": 43.7394,
+    "y": 193.386,
+    "z": 185.074,
+    "index": 1020,
+    "label": " left pars triangularis ",
+    "labels_sorted": [
+      " left pars triangularis ",
+      "EmptyLabel",
+      " left pars opercularis "
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.3939393939,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LD9",
+    "x": 41.7271,
+    "y": 189.529,
+    "z": 188.997,
+    "index": 1018,
+    "label": " left pars opercularis ",
+    "labels_sorted": [
+      " left pars opercularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LD10",
+    "x": 39.6706,
+    "y": 185.775,
+    "z": 194.307,
+    "index": 1018,
+    "label": " left pars opercularis ",
+    "labels_sorted": [
+      " left pars opercularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.3333333333
+    ]
+  },
+  {
+    "name": "LD11",
+    "x": 38.7394,
+    "y": 182.752,
+    "z": 199.867,
+    "index": 1018,
+    "label": " left pars opercularis ",
+    "labels_sorted": [
+      " left pars opercularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LD12",
+    "x": 37.7694,
+    "y": 180.187,
+    "z": 204.265,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars opercularis ",
+      " left precentral "
+    ],
+    "percent_assigned": [
+      0.4242424242,
+      0.4242424242,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "LE1",
+    "x": 61.1678809592,
+    "y": 91.8095175937,
+    "z": 146.6805045647,
+    "index": 1007,
+    "label": " left fusiform ",
+    "labels_sorted": [
+      " left fusiform ",
+      " left cerebellem exterior "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LE2",
+    "x": 51.4256830848,
+    "y": 98.6502203609,
+    "z": 145.1788061989,
+    "index": 1007,
+    "label": " left fusiform ",
+    "labels_sorted": [
+      " left fusiform ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LE3",
+    "x": 41.2857849568,
+    "y": 110.1636658356,
+    "z": 141.8711764545,
+    "index": 1009,
+    "label": " left inferior temporal ",
+    "labels_sorted": [
+      " left inferior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LE4",
+    "x": 34.6452391836,
+    "y": 116.5123604459,
+    "z": 146.3117750953,
+    "index": 1009,
+    "label": " left inferior temporal ",
+    "labels_sorted": [
+      " left inferior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LF1",
+    "x": 93.1059633267,
+    "y": 255.4590335002,
+    "z": 177.3514565719,
+    "index": 1028,
+    "label": " left superior frontal ",
+    "labels_sorted": [
+      " left superior frontal ",
+      " left lateral orbitofrontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.4545454545,
+      0.4242424242,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LF2",
+    "x": 83.587614494,
+    "y": 249.2134849345,
+    "z": 176.4836806541,
+    "index": 1012,
+    "label": " left lateral orbitofrontal ",
+    "labels_sorted": [
+      " left lateral orbitofrontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LF3",
+    "x": 69.4497096395,
+    "y": 244.9550844549,
+    "z": 174.2190919225,
+    "index": 1012,
+    "label": " left lateral orbitofrontal ",
+    "labels_sorted": [
+      " left lateral orbitofrontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LF4",
+    "x": 60.858926813,
+    "y": 236.2849447141,
+    "z": 174.4408688256,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left rostral middle frontal "
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.3333333333
+    ]
+  },
+  {
+    "name": "LF5",
+    "x": 56.3654586238,
+    "y": 230.4825785805,
+    "z": 170.2688744403,
+    "index": 1027,
+    "label": " left rostral middle frontal ",
+    "labels_sorted": [
+      " left rostral middle frontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6363636364,
+      0.3636363636
+    ]
+  },
+  {
+    "name": "LF6",
+    "x": 45.0783302157,
+    "y": 220.8116216698,
+    "z": 173.5193980687,
+    "index": 1020,
+    "label": " left pars triangularis ",
+    "labels_sorted": [
+      " left pars triangularis ",
+      "EmptyLabel",
+      " left pars orbitalis "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.3939393939,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LGr1",
+    "x": 79.8129658489,
+    "y": 49.1511389098,
+    "z": 146.8391921836,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr2",
+    "x": 73.010947994,
+    "y": 54.9751787279,
+    "z": 152.1697621971,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.3333333333
+    ]
+  },
+  {
+    "name": "LGr3",
+    "x": 59.3082077328,
+    "y": 57.3164624843,
+    "z": 157.2130134119,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr4",
+    "x": 51.9511436514,
+    "y": 63.7512477476,
+    "z": 162.1052075517,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr5",
+    "x": 47.5134695661,
+    "y": 72.8965818031,
+    "z": 169.4575772765,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr6",
+    "x": 43.3913587012,
+    "y": 83.1913015905,
+    "z": 170.8092143839,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "LGr7",
+    "x": 39.0479633843,
+    "y": 95.4684697523,
+    "z": 174.7427816861,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr8",
+    "x": 37.0066702872,
+    "y": 107.6722887488,
+    "z": 177.7293220381,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7272727273,
+      0.2727272727
+    ]
+  },
+  {
+    "name": "LGr9",
+    "x": 80.5940962049,
+    "y": 37.4259263089,
+    "z": 159.5062116572,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.3333333333
+    ]
+  },
+  {
+    "name": "LGr10",
+    "x": 71.8051323648,
+    "y": 46.6021537016,
+    "z": 161.4227122562,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr11",
+    "x": 65.9616758833,
+    "y": 49.2482068354,
+    "z": 169.4660875342,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel",
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.3333333333,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr12",
+    "x": 53.7091108503,
+    "y": 60.104239265,
+    "z": 173.0600684535,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left inferior parietal ",
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3333333333,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LGr13",
+    "x": 46.5952493264,
+    "y": 68.2381222129,
+    "z": 179.0008137846,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.4242424242
+    ]
+  },
+  {
+    "name": "LGr14",
+    "x": 43.3912218331,
+    "y": 80.8227794578,
+    "z": 183.3631268103,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LGr15",
+    "x": 41.4871206031,
+    "y": 92.572345051,
+    "z": 186.5064192443,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left inferior parietal ",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0303030303,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr16",
+    "x": 42.6334700562,
+    "y": 100.0801020518,
+    "z": 191.3969457874,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "LGr17",
+    "x": 86.1264121125,
+    "y": 36.0448310227,
+    "z": 170.7550788558,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "LGr18",
+    "x": 74.4414718758,
+    "y": 44.5969835898,
+    "z": 175.406155028,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr19",
+    "x": 69.7742989313,
+    "y": 53.2656835187,
+    "z": 184.4196268114,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal ",
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.1212121212,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LGr20",
+    "x": 61.9981554868,
+    "y": 59.3184253059,
+    "z": 185.9121528603,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.4242424242
+    ]
+  },
+  {
+    "name": "LGr21",
+    "x": 52.4356574073,
+    "y": 67.0046694127,
+    "z": 189.228937064,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr22",
+    "x": 47.4638906693,
+    "y": 78.5771271929,
+    "z": 194.7442891114,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LGr23",
+    "x": 40.9270464485,
+    "y": 93.0917180558,
+    "z": 196.3409338832,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr24",
+    "x": 44.0588238915,
+    "y": 102.8683526487,
+    "z": 201.5931179308,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6363636364,
+      0.3636363636
+    ]
+  },
+  {
+    "name": "LGr25",
+    "x": 92.591639092,
+    "y": 35.8398855673,
+    "z": 182.0092584378,
+    "index": 1011,
+    "label": " left lateral occipital ",
+    "labels_sorted": [
+      " left lateral occipital ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "LGr26",
+    "x": 83.8019758796,
+    "y": 43.5235832124,
+    "z": 186.3887972481,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left lateral occipital "
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LGr27",
+    "x": 73.2341131758,
+    "y": 48.068619206,
+    "z": 192.9258029711,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left superior parietal ",
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.2727272727,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LGr28",
+    "x": 65.9256916982,
+    "y": 57.6264492277,
+    "z": 197.9769113791,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LGr29",
+    "x": 58.9027695131,
+    "y": 66.2202211057,
+    "z": 203.4019782744,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr30",
+    "x": 50.3307469934,
+    "y": 75.0894724949,
+    "z": 207.6070549049,
+    "index": 1008,
+    "label": " left inferior parietal ",
+    "labels_sorted": [
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr31",
+    "x": 48.4177530513,
+    "y": 85.6835235891,
+    "z": 211.3809842377,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left supramarginal ",
+      " left inferior parietal "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.3333333333,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr32",
+    "x": 51.115489354,
+    "y": 97.2352199825,
+    "z": 214.1329702861,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr33",
+    "x": 43.5635931556,
+    "y": 198.9607497508,
+    "z": 156.5808544578,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr34",
+    "x": 46.1187947756,
+    "y": 188.3399764521,
+    "z": 158.3931499823,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr35",
+    "x": 39.3349983835,
+    "y": 179.926081947,
+    "z": 173.1737076226,
+    "index": 1018,
+    "label": " left pars opercularis ",
+    "labels_sorted": [
+      " left pars opercularis ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr36",
+    "x": 35.1373771259,
+    "y": 169.9237694115,
+    "z": 181.9633577426,
+    "index": 1024,
+    "label": " left precentral ",
+    "labels_sorted": [
+      " left precentral "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr37",
+    "x": 39.1477752409,
+    "y": 165.3143762452,
+    "z": 186.2916558242,
+    "index": 1024,
+    "label": " left precentral ",
+    "labels_sorted": [
+      " left precentral ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr38",
+    "x": 42.4619357227,
+    "y": 156.6515775875,
+    "z": 200.3782347569,
+    "index": 1022,
+    "label": " left postcentral ",
+    "labels_sorted": [
+      " left postcentral ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.4242424242
+    ]
+  },
+  {
+    "name": "LGr39",
+    "x": 40.6011147164,
+    "y": 140.6846921571,
+    "z": 207.5671822075,
+    "index": 1022,
+    "label": " left postcentral ",
+    "labels_sorted": [
+      " left postcentral "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr40",
+    "x": 44.5402709853,
+    "y": 133.995719412,
+    "z": 215.7861829085,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal ",
+      "EmptyLabel",
+      " left postcentral "
+    ],
+    "percent_assigned": [
+      0.8181818182,
+      0.1515151515,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr41",
+    "x": 39.5658657251,
+    "y": 187.3938050382,
+    "z": 146.4476358136,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8181818182,
+      0.1212121212,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LGr42",
+    "x": 36.7355342693,
+    "y": 179.284786721,
+    "z": 154.5518819421,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr43",
+    "x": 37.2377984456,
+    "y": 171.2115848096,
+    "z": 167.1388984546,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "LGr44",
+    "x": 38.0529280112,
+    "y": 163.0547725776,
+    "z": 176.0739923771,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "LGr45",
+    "x": 36.7814832152,
+    "y": 153.8179272185,
+    "z": 182.4015793575,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LGr46",
+    "x": 38.2020078778,
+    "y": 147.6693141116,
+    "z": 186.8630023474,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left postcentral "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "LGr47",
+    "x": 41.195470762,
+    "y": 132.6421497109,
+    "z": 195.9146381414,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr48",
+    "x": 40.7208033095,
+    "y": 124.0234611459,
+    "z": 205.4309796769,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr49",
+    "x": 49.7655531732,
+    "y": 189.4168664941,
+    "z": 130.7188226245,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr50",
+    "x": 43.9601165576,
+    "y": 182.293238889,
+    "z": 138.1783024085,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr51",
+    "x": 34.13738248,
+    "y": 171.4850792696,
+    "z": 144.3246123692,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr52",
+    "x": 36.7690688581,
+    "y": 161.9730787407,
+    "z": 154.6754668935,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "LGr53",
+    "x": 31.160924822,
+    "y": 153.6726619873,
+    "z": 163.0753217619,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LGr54",
+    "x": 29.6790051383,
+    "y": 142.6924052246,
+    "z": 170.5458666497,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr55",
+    "x": 36.4598114252,
+    "y": 133.9568897764,
+    "z": 182.7027173335,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7575757576,
+      0.2424242424
+    ]
+  },
+  {
+    "name": "LGr56",
+    "x": 39.1020500576,
+    "y": 124.551479473,
+    "z": 185.3269663232,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr57",
+    "x": 53.3179861801,
+    "y": 178.5811957263,
+    "z": 128.293741299,
+    "index": 1009,
+    "label": " left inferior temporal ",
+    "labels_sorted": [
+      " left inferior temporal ",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LGr58",
+    "x": 45.4029377414,
+    "y": 171.5735646829,
+    "z": 130.2385441107,
+    "index": 1009,
+    "label": " left inferior temporal ",
+    "labels_sorted": [
+      " left inferior temporal ",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LGr59",
+    "x": 38.6384861226,
+    "y": 163.939112552,
+    "z": 136.6030692205,
+    "index": 1009,
+    "label": " left inferior temporal ",
+    "labels_sorted": [
+      " left inferior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr60",
+    "x": 33.6613254999,
+    "y": 152.7076737344,
+    "z": 144.7669618965,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      " left inferior temporal "
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.4242424242
+    ]
+  },
+  {
+    "name": "LGr61",
+    "x": 32.66610388,
+    "y": 142.7814659864,
+    "z": 155.4005396319,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal ",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "LGr62",
+    "x": 30.086654584,
+    "y": 135.8721355532,
+    "z": 160.5545468621,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr63",
+    "x": 32.7223306333,
+    "y": 129.1982753075,
+    "z": 171.9163897482,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LGr64",
+    "x": 31.8802141564,
+    "y": 118.2152673746,
+    "z": 174.5944143311,
+    "index": 1030,
+    "label": " left superior temporal ",
+    "labels_sorted": [
+      " left superior temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,1710 @@
+[
+  {
+    "name": "AF1",
+    "x": 105.3808894291,
+    "y": 207.5444782119,
+    "z": 79.7674098904,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AF2",
+    "x": 111.8957168945,
+    "y": 200.2059297978,
+    "z": 85.7462373423,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AF3",
+    "x": 116.8799108231,
+    "y": 192.6797939631,
+    "z": 91.811667443,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AF4",
+    "x": 122.0455907221,
+    "y": 184.5904208069,
+    "z": 96.1402370135,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AF5",
+    "x": 129.7346942126,
+    "y": 177.0001466258,
+    "z": 97.2396783198,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AF6",
+    "x": 132.3516968697,
+    "y": 165.2281594347,
+    "z": 103.1701922179,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AST1",
+    "x": 111.7666462814,
+    "y": 142.4203077574,
+    "z": 31.8913662788,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AST2",
+    "x": 120.2294044227,
+    "y": 141.2082263595,
+    "z": 27.1288728003,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AST3",
+    "x": 130.6173567814,
+    "y": 141.9064498982,
+    "z": 27.3482361643,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "AST4",
+    "x": 138.847097704,
+    "y": 139.214902667,
+    "z": 31.8130777842,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DA1",
+    "x": 110.755,
+    "y": 123.833,
+    "z": 48.6606,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DA2",
+    "x": 116.405,
+    "y": 123.934,
+    "z": 49.1729,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DA3",
+    "x": 121.621,
+    "y": 124.058,
+    "z": 49.6567,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DA4",
+    "x": 126.747,
+    "y": 123.815,
+    "z": 51.0758,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DEC1",
+    "x": 127.079,
+    "y": 129.855,
+    "z": 51.0461,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DEC2",
+    "x": 132.385,
+    "y": 130.346,
+    "z": 50.5946,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DEC3",
+    "x": 137.246,
+    "y": 130.452,
+    "z": 49.9729,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DEC4",
+    "x": 142.642,
+    "y": 131.309,
+    "z": 48.5861,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DH1",
+    "x": 118.787,
+    "y": 120.385,
+    "z": 55.6364,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DH2",
+    "x": 124.539,
+    "y": 121.261,
+    "z": 55.355,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DH3",
+    "x": 129.845,
+    "y": 121.751,
+    "z": 54.9035,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DH4",
+    "x": 135.151,
+    "y": 122.242,
+    "z": 54.452,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHA1",
+    "x": 123.538,
+    "y": 88.0159,
+    "z": 61.9948,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHA2",
+    "x": 128.536,
+    "y": 90.1214,
+    "z": 61.0043,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHA3",
+    "x": 133.443,
+    "y": 91.8604,
+    "z": 60.9491,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHA4",
+    "x": 138.339,
+    "y": 93.1911,
+    "z": 60.7523,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHP1",
+    "x": 113.577,
+    "y": 93.3187,
+    "z": 70.4634,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHP2",
+    "x": 118.235,
+    "y": 91.8752,
+    "z": 71.4291,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHP3",
+    "x": 123.416,
+    "y": 90.7747,
+    "z": 71.4881,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "DHP4",
+    "x": 128.495,
+    "y": 88.8993,
+    "z": 72.3408,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G1",
+    "x": 138.8573562037,
+    "y": 140.0475851431,
+    "z": 30.2968180227,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G2",
+    "x": 144.5792874901,
+    "y": 132.8690425247,
+    "z": 38.1853094689,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G3",
+    "x": 148.3191629669,
+    "y": 121.8431234963,
+    "z": 42.0468154975,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G4",
+    "x": 149.9640842157,
+    "y": 113.5778500751,
+    "z": 46.0782703142,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G5",
+    "x": 153.9399201409,
+    "y": 105.8426990854,
+    "z": 50.8515848451,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G6",
+    "x": 152.8482163152,
+    "y": 95.3244977389,
+    "z": 59.8097390605,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G7",
+    "x": 150.3009255672,
+    "y": 88.5054592585,
+    "z": 64.2836363432,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G8",
+    "x": 146.5090982606,
+    "y": 77.5664700228,
+    "z": 72.9719060326,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G9",
+    "x": 143.9481503984,
+    "y": 145.4828229155,
+    "z": 38.6129312163,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G10",
+    "x": 151.448054882,
+    "y": 139.6881770508,
+    "z": 43.1878465624,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G11",
+    "x": 153.6620414691,
+    "y": 127.213063664,
+    "z": 46.7812256849,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G12",
+    "x": 155.3732841594,
+    "y": 120.6178257108,
+    "z": 52.0754547905,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G13",
+    "x": 154.9102169406,
+    "y": 112.6979173989,
+    "z": 60.0501391259,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G14",
+    "x": 154.5441513379,
+    "y": 104.2361659818,
+    "z": 66.8541193179,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G15",
+    "x": 153.4823232602,
+    "y": 95.8652093011,
+    "z": 71.2036397096,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G16",
+    "x": 150.3537661731,
+    "y": 88.1512956682,
+    "z": 78.8447187726,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G17",
+    "x": 136.1745928533,
+    "y": 156.5354601596,
+    "z": 35.5799190468,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G18",
+    "x": 141.9248056654,
+    "y": 149.3078291947,
+    "z": 39.6140244644,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G19",
+    "x": 146.5499367011,
+    "y": 142.3229496254,
+    "z": 49.2641502921,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G20",
+    "x": 150.9574975391,
+    "y": 136.4281914734,
+    "z": 54.9248096616,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G21",
+    "x": 154.6882287482,
+    "y": 127.3893735894,
+    "z": 59.6323516466,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G22",
+    "x": 155.9581426799,
+    "y": 122.2142411031,
+    "z": 70.4747688109,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G23",
+    "x": 154.5764304562,
+    "y": 114.7660220914,
+    "z": 76.2756161184,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G24",
+    "x": 154.1713393445,
+    "y": 105.8961019208,
+    "z": 80.9228371913,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G25",
+    "x": 138.1967775309,
+    "y": 164.6931716396,
+    "z": 40.090498376,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G26",
+    "x": 142.4658294397,
+    "y": 157.8389129695,
+    "z": 47.8916648405,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G27",
+    "x": 147.9819378048,
+    "y": 147.805611839,
+    "z": 52.3503285037,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G28",
+    "x": 153.2629353695,
+    "y": 140.9597249101,
+    "z": 57.4911395797,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G29",
+    "x": 154.2857338273,
+    "y": 136.1978200505,
+    "z": 68.145366743,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G30",
+    "x": 153.5012594346,
+    "y": 129.6257906582,
+    "z": 73.8641674283,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G31",
+    "x": 152.044934767,
+    "y": 121.0359228412,
+    "z": 79.9804738856,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G32",
+    "x": 152.1185855365,
+    "y": 114.1575613099,
+    "z": 87.6463923568,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G33",
+    "x": 141.0636865114,
+    "y": 173.8257778993,
+    "z": 63.9463160353,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G34",
+    "x": 146.6470910624,
+    "y": 164.6278119743,
+    "z": 69.0835475402,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G35",
+    "x": 147.1002189328,
+    "y": 156.8173940181,
+    "z": 74.6961347523,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G36",
+    "x": 150.729604992,
+    "y": 145.8899409884,
+    "z": 75.8024423516,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G37",
+    "x": 153.5896170498,
+    "y": 134.8105450489,
+    "z": 80.2160898861,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G38",
+    "x": 150.7616593004,
+    "y": 128.4443235307,
+    "z": 83.8166936632,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G39",
+    "x": 153.3214398492,
+    "y": 115.7003079332,
+    "z": 87.6682384692,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G40",
+    "x": 151.7152307832,
+    "y": 104.7805423668,
+    "z": 91.4996355566,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G41",
+    "x": 138.9325777722,
+    "y": 180.1966951582,
+    "z": 73.1260320272,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G42",
+    "x": 144.8744862971,
+    "y": 168.2705850129,
+    "z": 77.061119343,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G43",
+    "x": 146.5843311202,
+    "y": 157.0766814759,
+    "z": 79.2124058091,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G44",
+    "x": 149.6127061836,
+    "y": 149.3824256012,
+    "z": 84.1080248045,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G45",
+    "x": 152.4818816366,
+    "y": 136.7202768667,
+    "z": 89.5724779235,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G46",
+    "x": 151.1367567434,
+    "y": 130.9925554042,
+    "z": 92.0774382093,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G47",
+    "x": 149.7720744519,
+    "y": 121.7644364004,
+    "z": 97.0665423383,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G48",
+    "x": 148.2036233603,
+    "y": 113.7563047765,
+    "z": 98.2904236863,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G49",
+    "x": 136.2333266941,
+    "y": 178.2130980179,
+    "z": 89.5035630747,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G50",
+    "x": 140.3631023423,
+    "y": 165.7448798719,
+    "z": 92.8459070675,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G51",
+    "x": 144.4082257499,
+    "y": 157.0265899244,
+    "z": 94.5682534431,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G52",
+    "x": 147.273677915,
+    "y": 147.00071024,
+    "z": 95.7106614605,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G53",
+    "x": 149.5924437725,
+    "y": 137.1811847967,
+    "z": 97.2977171688,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G54",
+    "x": 151.4664001019,
+    "y": 127.6481083867,
+    "z": 98.0210751434,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G55",
+    "x": 151.0481772318,
+    "y": 116.7170794919,
+    "z": 98.1249482745,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G56",
+    "x": 151.3841583435,
+    "y": 104.9694046944,
+    "z": 98.3482553853,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G57",
+    "x": 130.7226238991,
+    "y": 177.5014225452,
+    "z": 98.1438333766,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G58",
+    "x": 135.2916152465,
+    "y": 164.4541109442,
+    "z": 101.0047520213,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G59",
+    "x": 136.9953061086,
+    "y": 156.7498498664,
+    "z": 104.8778856614,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G60",
+    "x": 143.2689858244,
+    "y": 147.5910117933,
+    "z": 107.5339153034,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G61",
+    "x": 145.3950247698,
+    "y": 137.2001057387,
+    "z": 105.3327943262,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G62",
+    "x": 147.2918849702,
+    "y": 125.4235125293,
+    "z": 106.5700672296,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G63",
+    "x": 147.9833740919,
+    "y": 116.4944519195,
+    "z": 107.0171385805,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "G64",
+    "x": 146.8676959485,
+    "y": 105.7697258922,
+    "z": 106.4074345026,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "MST1",
+    "x": 118.7299299317,
+    "y": 136.2188728354,
+    "z": 25.5881082498,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "MST2",
+    "x": 126.7377651983,
+    "y": 131.7088180328,
+    "z": 26.1363473594,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "MST3",
+    "x": 137.3662386001,
+    "y": 130.4253607343,
+    "z": 29.408314319,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "MST4",
+    "x": 144.5792227344,
+    "y": 132.8691734397,
+    "z": 38.1853160061,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O1",
+    "x": 101.7473585273,
+    "y": 65.035503764,
+    "z": 82.5641704625,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O2",
+    "x": 105.517588341,
+    "y": 54.4601772145,
+    "z": 82.5271583411,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O3",
+    "x": 109.4233934631,
+    "y": 44.2585312472,
+    "z": 80.8068548865,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O4",
+    "x": 119.951340183,
+    "y": 42.3960723657,
+    "z": 77.1498598708,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O5",
+    "x": 130.2509143775,
+    "y": 46.4352630573,
+    "z": 74.5116883316,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "O6",
+    "x": 137.7584398037,
+    "y": 52.6661227323,
+    "z": 70.7345856333,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF1",
+    "x": 105.3928305025,
+    "y": 179.1115763566,
+    "z": 45.3102565561,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF2",
+    "x": 114.3875890576,
+    "y": 181.374734673,
+    "z": 50.2304869423,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF3",
+    "x": 124.0484202085,
+    "y": 184.0301940374,
+    "z": 54.6176644938,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF4",
+    "x": 134.3434575205,
+    "y": 186.2047319325,
+    "z": 59.4147831889,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF5",
+    "x": 139.0880436446,
+    "y": 185.7222911504,
+    "z": 66.9565419641,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "OF6",
+    "x": 139.774714257,
+    "y": 183.8227739213,
+    "z": 75.4315464917,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P1",
+    "x": 97.8061755947,
+    "y": 81.1654895443,
+    "z": 84.0293154992,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P2",
+    "x": 100.8329064079,
+    "y": 73.11659632,
+    "z": 90.2757985672,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P3",
+    "x": 103.0763298492,
+    "y": 64.2818158259,
+    "z": 95.6806343177,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P4",
+    "x": 108.4614099688,
+    "y": 54.8489466102,
+    "z": 100.1496220365,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P5",
+    "x": 116.5900653036,
+    "y": 54.7271176923,
+    "z": 105.9081655051,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P6",
+    "x": 125.0465294447,
+    "y": 59.6419715107,
+    "z": 108.1763978439,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P7",
+    "x": 133.6235625451,
+    "y": 64.8008512379,
+    "z": 104.5640898082,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "P8",
+    "x": 139.5279324211,
+    "y": 73.2737946962,
+    "z": 106.4382900689,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "PST1",
+    "x": 113.6177067498,
+    "y": 109.8145291935,
+    "z": 50.7405519208,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "PST2",
+    "x": 116.8221561496,
+    "y": 109.5124194564,
+    "z": 47.3352961641,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "PST3",
+    "x": 125.7092661304,
+    "y": 106.9066684119,
+    "z": 43.114254106,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "PST4",
+    "x": 136.9608613852,
+    "y": 107.9787756854,
+    "z": 42.1228701661,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  }
+]

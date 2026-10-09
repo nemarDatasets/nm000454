@@ -1,0 +1,30 @@
+{
+  "CoilCombinationMethod": "Sum of Squares",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20211006",
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "InPlanePhaseEncodingDirectionDICOM": "COL",
+  "MRAcquisitionType": "2D",
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Investigational_Device_7T",
+  "MatrixCoilMode": "GRAPPA",
+  "Modality": "MR",
+  "ParallelReductionFactorInPlane": 2,
+  "PartialFourier": 1,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "j-",
+  "PhaseResolution": 1,
+  "PulseSequenceDetails": "%CustomerSeq%\\cmrr_mbep2d_bold",
+  "RepetitionTime": 1,
+  "ScanningSequence": "EP",
+  "TaskName": "rest"
+}

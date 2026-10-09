@@ -1,0 +1,30 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Prisma_fit",
+  "SoftwareVersions": "syngo_MR_E11",
+  "ProcedureStepDescription": "MR_HEAD_FUNCTIONAL_MOTOR_LANGUAGE",
+  "ScanningSequence": "GR_IR",
+  "SequenceVariant": "SK_SP_MP",
+  "SeriesDescription": "T1w_MPR",
+  "BodyPartExamined": "BRAIN",
+  "ProtocolName": "T1w_MPR",
+  "SequenceName": "_tfl3d1_16ns",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "M",
+    "NORM",
+    "DIS3D",
+    "DIS2D"
+  ],
+  "MagneticFieldStrength": 3,
+  "FlipAngle": 8,
+  "EchoTime": 0.00224,
+  "RepetitionTime": 2.4,
+  "InversionTime": 1.06,
+  "PhaseEncodingLines": 320,
+  "AccelFactPE": 2,
+  "PhaseEncodingDirection": "i-",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20170624 GCC4.8.5"
+}

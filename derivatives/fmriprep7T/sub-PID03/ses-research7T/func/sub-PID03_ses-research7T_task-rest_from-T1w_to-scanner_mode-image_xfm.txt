@@ -1,0 +1,5 @@
+#Insight Transform File V1.0
+#Transform 0
+Transform: AffineTransform_float_3_3
+Parameters: 0.998955 -0.010733 0.0444239 0.00952123 0.999579 0.0274002 -0.0446993 -0.0269486 0.998636 0.69376 -0.784291 6.8663
+FixedParameters: 0 0 0

@@ -1,0 +1,2144 @@
+[
+  {
+    "name": "LA1",
+    "x": 85.6403,
+    "y": 149.678,
+    "z": 168.512,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA2",
+    "x": 79.4637,
+    "y": 148.371,
+    "z": 169.182,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA3",
+    "x": 73.8969,
+    "y": 147.042,
+    "z": 169.868,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA4",
+    "x": 67.7203,
+    "y": 145.735,
+    "z": 170.538,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "LA5",
+    "x": 60.9341,
+    "y": 144.451,
+    "z": 171.19,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA6",
+    "x": 55.4139,
+    "y": 143.484,
+    "z": 170.681,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA7",
+    "x": 49.847,
+    "y": 142.155,
+    "z": 171.368,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA8",
+    "x": 43.0608,
+    "y": 140.871,
+    "z": 172.02,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LA9",
+    "x": 36.8842,
+    "y": 139.564,
+    "z": 172.69,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LA10",
+    "x": 30.7076,
+    "y": 138.258,
+    "z": 173.359,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LA11",
+    "x": 23.9214,
+    "y": 136.973,
+    "z": 174.012,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "LA12",
+    "x": 19.0273,
+    "y": 136.568,
+    "z": 173.698,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB1",
+    "x": 80.486,
+    "y": 141.322,
+    "z": 167.082,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus ",
+      " left ventral DC "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LB2",
+    "x": 73.6203,
+    "y": 138.508,
+    "z": 168.574,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB3",
+    "x": 68.6467,
+    "y": 136.573,
+    "z": 169.1,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB4",
+    "x": 63.047,
+    "y": 134.077,
+    "z": 169.431,
+    "index": 17,
+    "label": " left hippocampus ",
+    "labels_sorted": [
+      " left hippocampus ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LB5",
+    "x": 58.057,
+    "y": 131.558,
+    "z": 169.779,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB6",
+    "x": 51.8009,
+    "y": 128.721,
+    "z": 171.288,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LB7",
+    "x": 46.8274,
+    "y": 126.786,
+    "z": 171.813,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LB8",
+    "x": 41.181,
+    "y": 123.927,
+    "z": 173.34,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LB9",
+    "x": 35.5347,
+    "y": 121.068,
+    "z": 174.866,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LB10",
+    "x": 29.9048,
+    "y": 118.792,
+    "z": 176.57,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LB11",
+    "x": 24.3051,
+    "y": 116.296,
+    "z": 176.901,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LB12",
+    "x": 18.6751,
+    "y": 114.02,
+    "z": 178.605,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC1",
+    "x": 71.3693,
+    "y": 126.176,
+    "z": 167.357,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left hippocampus "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LC2",
+    "x": 65.7696,
+    "y": 123.68,
+    "z": 167.688,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC3",
+    "x": 60.7494,
+    "y": 121.382,
+    "z": 169.409,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC4",
+    "x": 55.1031,
+    "y": 118.523,
+    "z": 170.935,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC5",
+    "x": 50.05,
+    "y": 115.058,
+    "z": 172.301,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC6",
+    "x": 44.3872,
+    "y": 111.615,
+    "z": 173.649,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LC7",
+    "x": 39.3972,
+    "y": 109.096,
+    "z": 173.997,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal ",
+      " left inferior temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LC8",
+    "x": 34.3606,
+    "y": 106.215,
+    "z": 175.54,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "LC9",
+    "x": 28.0881,
+    "y": 102.794,
+    "z": 176.871,
+    "index": 1015,
+    "label": " left middle temporal ",
+    "labels_sorted": [
+      " left middle temporal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC10",
+    "x": 23.0981,
+    "y": 100.276,
+    "z": 177.219,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC11",
+    "x": 17.4518,
+    "y": 97.4164,
+    "z": 178.745,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LC12",
+    "x": 11.8521,
+    "y": 94.92,
+    "z": 179.076,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD1",
+    "x": 72.5185,
+    "y": 174.776,
+    "z": 189.999,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD2",
+    "x": 65.8308,
+    "y": 176.994,
+    "z": 191.718,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left insula "
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LD3",
+    "x": 60.9256,
+    "y": 178.781,
+    "z": 194.684,
+    "index": 1035,
+    "label": " left insula ",
+    "labels_sorted": [
+      " left insula ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LD4",
+    "x": 56.067,
+    "y": 180.932,
+    "z": 196.454,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "LD5",
+    "x": 49.3793,
+    "y": 183.149,
+    "z": 198.174,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.303030303
+    ]
+  },
+  {
+    "name": "LD6",
+    "x": 44.4576,
+    "y": 184.353,
+    "z": 200.962,
+    "index": 1020,
+    "label": " left pars triangularis ",
+    "labels_sorted": [
+      " left pars triangularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LD7",
+    "x": 39.599,
+    "y": 186.504,
+    "z": 202.732,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LD8",
+    "x": 32.255,
+    "y": 188.381,
+    "z": 205.63,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD9",
+    "x": 27.3964,
+    "y": 190.531,
+    "z": 207.4,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD10",
+    "x": 21.3184,
+    "y": 192.726,
+    "z": 209.137,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD11",
+    "x": 19.4288,
+    "y": 193.235,
+    "z": 211.832,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LD12",
+    "x": 12.2221,
+    "y": 194.813,
+    "z": 209.415,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF1",
+    "x": 101.334,
+    "y": 199.792,
+    "z": 197.41,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left rostral anterior cingulate "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LF2",
+    "x": 95.1906,
+    "y": 199.652,
+    "z": 198.435,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF3",
+    "x": 89.0633,
+    "y": 200.097,
+    "z": 199.638,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF4",
+    "x": 82.9361,
+    "y": 200.541,
+    "z": 200.841,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF5",
+    "x": 77.4185,
+    "y": 200.963,
+    "z": 202.061,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF6",
+    "x": 70.6651,
+    "y": 200.846,
+    "z": 203.069,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF7",
+    "x": 64.4912,
+    "y": 200.927,
+    "z": 205.468,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF8",
+    "x": 58.9572,
+    "y": 200.765,
+    "z": 206.51,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF9",
+    "x": 52.2038,
+    "y": 200.648,
+    "z": 207.518,
+    "index": 1020,
+    "label": " left pars triangularis ",
+    "labels_sorted": [
+      " left pars triangularis ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LF10",
+    "x": 46.6395,
+    "y": 200.707,
+    "z": 209.933,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "LF11",
+    "x": 40.4958,
+    "y": 200.568,
+    "z": 210.958,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LF12",
+    "x": 34.3521,
+    "y": 200.428,
+    "z": 211.983,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG1",
+    "x": 101.046,
+    "y": 172.063,
+    "z": 215.126,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG2",
+    "x": 94.3719,
+    "y": 173.476,
+    "z": 215.294,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG3",
+    "x": 88.8846,
+    "y": 173.677,
+    "z": 215.141,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG4",
+    "x": 82.2573,
+    "y": 175.453,
+    "z": 214.115,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG5",
+    "x": 76.1767,
+    "y": 176.26,
+    "z": 214.122,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG6",
+    "x": 70.0961,
+    "y": 177.067,
+    "z": 214.13,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG7",
+    "x": 64.0155,
+    "y": 177.874,
+    "z": 214.138,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG8",
+    "x": 57.9348,
+    "y": 178.681,
+    "z": 214.145,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG9",
+    "x": 51.8542,
+    "y": 179.488,
+    "z": 214.153,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars opercularis ",
+      " left pars triangularis "
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.303030303,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LG10",
+    "x": 45.7736,
+    "y": 180.295,
+    "z": 214.161,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left pars triangularis ",
+      " left pars opercularis "
+    ],
+    "percent_assigned": [
+      0.696969697,
+      0.1818181818,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "LG11",
+    "x": 39.0833,
+    "y": 181.124,
+    "z": 214.151,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LG12",
+    "x": 33.0026,
+    "y": 181.932,
+    "z": 214.159,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH1",
+    "x": 98.9013,
+    "y": 107.514,
+    "z": 207.213,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left isthmus cingulate "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "LH2",
+    "x": 92.8207,
+    "y": 108.321,
+    "z": 207.22,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH3",
+    "x": 86.7236,
+    "y": 108.545,
+    "z": 207.05,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH4",
+    "x": 80.643,
+    "y": 109.352,
+    "z": 207.058,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH5",
+    "x": 74.5459,
+    "y": 109.575,
+    "z": 206.888,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH6",
+    "x": 68.4187,
+    "y": 110.02,
+    "z": 208.091,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH7",
+    "x": 62.338,
+    "y": 110.827,
+    "z": 208.098,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH8",
+    "x": 55.6313,
+    "y": 111.072,
+    "z": 207.911,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      0.7272727273,
+      0.2727272727
+    ]
+  },
+  {
+    "name": "LH9",
+    "x": 50.1604,
+    "y": 111.857,
+    "z": 207.936,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "LH10",
+    "x": 43.4536,
+    "y": 112.103,
+    "z": 207.749,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      " left superior temporal ",
+      "EmptyLabel",
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      0.4545454545,
+      0.4545454545,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "LH11",
+    "x": 37.3263,
+    "y": 112.547,
+    "z": 208.952,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " left superior temporal ",
+      " left supramarginal "
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.2121212121,
+      0.2121212121
+    ]
+  },
+  {
+    "name": "LH12",
+    "x": 31.2457,
+    "y": 113.354,
+    "z": 208.959,
+    "index": 1031,
+    "label": " left supramarginal ",
+    "labels_sorted": [
+      " left supramarginal ",
+      " left superior temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.1818181818,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RA1",
+    "x": 122.302,
+    "y": 149.867,
+    "z": 168.693,
+    "index": 54,
+    "label": " right amygdala ",
+    "labels_sorted": [
+      " right amygdala ",
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      0.5454545455,
+      0.4545454545
+    ]
+  },
+  {
+    "name": "RA2",
+    "x": 127.866,
+    "y": 149.808,
+    "z": 166.278,
+    "index": 54,
+    "label": " right amygdala ",
+    "labels_sorted": [
+      " right amygdala ",
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "RA3",
+    "x": 134.62,
+    "y": 149.925,
+    "z": 165.27,
+    "index": 53,
+    "label": " right hippocampus ",
+    "labels_sorted": [
+      " right hippocampus ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6666666667,
+      0.3333333333
+    ]
+  },
+  {
+    "name": "RA4",
+    "x": 140.747,
+    "y": 149.481,
+    "z": 164.067,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "RA5",
+    "x": 146.874,
+    "y": 149.037,
+    "z": 162.864,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RA6",
+    "x": 152.392,
+    "y": 148.615,
+    "z": 161.644,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RA7",
+    "x": 158.566,
+    "y": 148.533,
+    "z": 159.246,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RA8",
+    "x": 165.286,
+    "y": 147.483,
+    "z": 157.882,
+    "index": 2009,
+    "label": " right inferior temporal ",
+    "labels_sorted": [
+      " right inferior temporal ",
+      "EmptyLabel",
+      " right middle temporal "
+    ],
+    "percent_assigned": [
+      0.9090909091,
+      0.0606060606,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RA9",
+    "x": 171.414,
+    "y": 147.039,
+    "z": 156.679,
+    "index": 2009,
+    "label": " right inferior temporal ",
+    "labels_sorted": [
+      " right inferior temporal ",
+      " right middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.7878787879,
+      0.1212121212,
+      0.0909090909
+    ]
+  },
+  {
+    "name": "RA10",
+    "x": 177.524,
+    "y": 146.011,
+    "z": 155.298,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right middle temporal ",
+      " right inferior temporal "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.303030303,
+      0.1818181818
+    ]
+  },
+  {
+    "name": "RA11",
+    "x": 183.635,
+    "y": 144.983,
+    "z": 153.918,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RA12",
+    "x": 189.763,
+    "y": 144.539,
+    "z": 152.715,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB1",
+    "x": 130.157,
+    "y": 144.466,
+    "z": 164.746,
+    "index": 53,
+    "label": " right hippocampus ",
+    "labels_sorted": [
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB2",
+    "x": 134.906,
+    "y": 141.006,
+    "z": 165.188,
+    "index": 53,
+    "label": " right hippocampus ",
+    "labels_sorted": [
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB3",
+    "x": 140.248,
+    "y": 136.94,
+    "z": 165.47,
+    "index": 53,
+    "label": " right hippocampus ",
+    "labels_sorted": [
+      " right hippocampus "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB4",
+    "x": 144.371,
+    "y": 132.919,
+    "z": 165.717,
+    "index": 53,
+    "label": " right hippocampus ",
+    "labels_sorted": [
+      " right hippocampus ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9393939394,
+      0.0606060606
+    ]
+  },
+  {
+    "name": "RB5",
+    "x": 149.713,
+    "y": 128.853,
+    "z": 165.998,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB6",
+    "x": 154.446,
+    "y": 124.81,
+    "z": 166.263,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB7",
+    "x": 158.631,
+    "y": 121.735,
+    "z": 165.493,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RB8",
+    "x": 164.583,
+    "y": 117.647,
+    "z": 165.791,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right inferior temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RB9",
+    "x": 169.972,
+    "y": 113.944,
+    "z": 164.878,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right middle temporal "
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RB10",
+    "x": 174.737,
+    "y": 111.068,
+    "z": 165.498,
+    "index": 2015,
+    "label": " right middle temporal ",
+    "labels_sorted": [
+      " right middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8787878788,
+      0.1212121212
+    ]
+  },
+  {
+    "name": "RB11",
+    "x": 180.079,
+    "y": 107.002,
+    "z": 165.779,
+    "index": 2015,
+    "label": " right middle temporal ",
+    "labels_sorted": [
+      " right middle temporal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.9696969697,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RB12",
+    "x": 184.875,
+    "y": 103.905,
+    "z": 165.026,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE1",
+    "x": 110.54,
+    "y": 171.5,
+    "z": 224.476,
+    "index": 2002,
+    "label": " right caudal anterior cingulate ",
+    "labels_sorted": [
+      " right caudal anterior cingulate "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE2",
+    "x": 112.844,
+    "y": 173.098,
+    "z": 231.588,
+    "index": 2028,
+    "label": " right superior frontal ",
+    "labels_sorted": [
+      " right superior frontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.6060606061,
+      0.3939393939
+    ]
+  },
+  {
+    "name": "RE3",
+    "x": 114.569,
+    "y": 174.498,
+    "z": 237.309,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right superior frontal "
+    ],
+    "percent_assigned": [
+      0.5757575758,
+      0.4242424242
+    ]
+  },
+  {
+    "name": "RE4",
+    "x": 116.294,
+    "y": 175.898,
+    "z": 243.03,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right superior frontal "
+    ],
+    "percent_assigned": [
+      0.7272727273,
+      0.2727272727
+    ]
+  },
+  {
+    "name": "RE5",
+    "x": 118.065,
+    "y": 177.66,
+    "z": 247.556,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE6",
+    "x": 119.806,
+    "y": 179.644,
+    "z": 253.455,
+    "index": 2028,
+    "label": " right superior frontal ",
+    "labels_sorted": [
+      " right superior frontal "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE7",
+    "x": 122.14,
+    "y": 181.021,
+    "z": 259.193,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE8",
+    "x": 123.912,
+    "y": 182.784,
+    "z": 263.719,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE9",
+    "x": 125.636,
+    "y": 184.184,
+    "z": 269.44,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE10",
+    "x": 126.142,
+    "y": 185.628,
+    "z": 275.127,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE11",
+    "x": 128.41,
+    "y": 184.671,
+    "z": 280.154,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RE12",
+    "x": 130.179,
+    "y": 185.046,
+    "z": 282.952,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF1",
+    "x": 110.804,
+    "y": 173.093,
+    "z": 217.127,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right caudal anterior cingulate "
+    ],
+    "percent_assigned": [
+      0.6363636364,
+      0.3636363636
+    ]
+  },
+  {
+    "name": "RF2",
+    "x": 116.857,
+    "y": 173.895,
+    "z": 220.221,
+    "index": 2002,
+    "label": " right caudal anterior cingulate ",
+    "labels_sorted": [
+      " right caudal anterior cingulate ",
+      " right superior frontal ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1212121212,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RF3",
+    "x": 121.737,
+    "y": 175.104,
+    "z": 222.086,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF4",
+    "x": 127.79,
+    "y": 175.906,
+    "z": 225.18,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF5",
+    "x": 133.264,
+    "y": 176.51,
+    "z": 226.884,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF6",
+    "x": 139.317,
+    "y": 177.311,
+    "z": 229.978,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF7",
+    "x": 144.807,
+    "y": 178.498,
+    "z": 231.86,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF8",
+    "x": 150.297,
+    "y": 179.685,
+    "z": 233.742,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right rostral middle frontal "
+    ],
+    "percent_assigned": [
+      0.8484848485,
+      0.1515151515
+    ]
+  },
+  {
+    "name": "RF9",
+    "x": 156.333,
+    "y": 179.904,
+    "z": 236.658,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel",
+      " right rostral middle frontal "
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "RF10",
+    "x": 161.823,
+    "y": 181.091,
+    "z": 238.54,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF11",
+    "x": 167.876,
+    "y": 181.892,
+    "z": 241.634,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RF12",
+    "x": 173.35,
+    "y": 182.496,
+    "z": 243.338,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG1",
+    "x": 110.461,
+    "y": 162.225,
+    "z": 215.121,
+    "index": 2002,
+    "label": " right caudal anterior cingulate ",
+    "labels_sorted": [
+      " right caudal anterior cingulate ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.8181818182,
+      0.1818181818
+    ]
+  },
+  {
+    "name": "RG2",
+    "x": 116.589,
+    "y": 161.781,
+    "z": 213.918,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG3",
+    "x": 122.716,
+    "y": 161.336,
+    "z": 212.715,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG4",
+    "x": 129.453,
+    "y": 160.87,
+    "z": 211.53,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG5",
+    "x": 134.971,
+    "y": 160.448,
+    "z": 210.31,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG6",
+    "x": 141.098,
+    "y": 160.004,
+    "z": 209.107,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG7",
+    "x": 147.209,
+    "y": 158.976,
+    "z": 207.726,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG8",
+    "x": 153.992,
+    "y": 158.872,
+    "z": 205.345,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG9",
+    "x": 159.51,
+    "y": 158.45,
+    "z": 204.125,
+    "index": 2024,
+    "label": " right precentral ",
+    "labels_sorted": [
+      " right precentral ",
+      "EmptyLabel",
+      " right pars opercularis "
+    ],
+    "percent_assigned": [
+      0.8181818182,
+      0.1515151515,
+      0.0303030303
+    ]
+  },
+  {
+    "name": "RG10",
+    "x": 165.027,
+    "y": 158.028,
+    "z": 202.905,
+    "index": 2024,
+    "label": " right precentral ",
+    "labels_sorted": [
+      " right precentral ",
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      0.5151515152,
+      0.4848484848
+    ]
+  },
+  {
+    "name": "RG11",
+    "x": 171.201,
+    "y": 157.947,
+    "z": 200.506,
+    "index": 0,
+    "label": "EmptyLabel",
+    "labels_sorted": [
+      "EmptyLabel"
+    ],
+    "percent_assigned": [
+      1
+    ]
+  },
+  {
+    "name": "RG12",
+    "x": 177.359,
+    "y": 157.282,
+    "z": 197.93,
+    "index": 2024,
+    "label": " right precentral ",
+    "labels_sorted": [
+      " right precentral "
+    ],
+    "percent_assigned": [
+      1
+    ]
+  }
+]

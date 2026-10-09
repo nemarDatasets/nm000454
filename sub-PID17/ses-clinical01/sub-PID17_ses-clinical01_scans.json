@@ -1,0 +1,5 @@
+{
+  "acq_time": {
+    "Description": "Start of the epoch from the EDF header; the day of month is set to 01 for de-identification (year, month and clock time kept)"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Acknowledgements": ["National Institute of Neurological Disorders and Stroke (NINDS)",
+  "Department of Defense",
+  ],
+  "Authors": [
+    "Tamjid Imtiaz",
+    "Alfredo Lucas",
+    "Mariam Josyula",
+    "Nina Petillo",
+    "Joost Wagenaar",
+    "Joel M. Stein",
+    "Sandhitsu Das",
+    "Nishant Sinha",
+    "Kathryn A. Davis"
+  ],
+  "BIDSVersion": "1.4.1",
+  "DatasetDOI": "",
+  "Funding": [
+    "K99NS138680 (PI: Sinha)",
+    " R01NS116504 (PI: Davis)",
+    "R01NS125137 (PI: Litt)",
+    "R61NS125568 (PI: Davis)"
+  ],
+  "HowToAcknowledge": :"This work was supported by funding from the National Institute of Neurological Disorders and Stroke (NINDS) of the National Institutes of Health under award numbers K99NS138680 (PI: Sinha), R01NS116504 (PI: Davis), R01NS125137 (PI: Litt), R61NS125568 (PI: Davis), U24NS134536 (PI: Wagenaar) and Department of Defense W81XWH2210593 (PI: Sinha).",
+  "License": "",
+  "Name": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG",
+  "ReferencesAndLinks": [
+  ]
+}

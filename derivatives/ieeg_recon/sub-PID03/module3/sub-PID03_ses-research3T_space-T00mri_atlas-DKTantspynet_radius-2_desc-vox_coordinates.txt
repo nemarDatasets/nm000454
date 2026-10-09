@@ -1,0 +1,130 @@
+AFD1 91.0727 131.621 97.0086 0.0 EmptyLabel 0 0
+AFD2 89.4333 131.426 102.182 0.0 EmptyLabel 0 0
+AFD3 88.9001 132.272 106.329 0.0 EmptyLabel 0 0
+AFD4 88.4368 131.863 112.388 0.0 EmptyLabel 0 0
+APD1 79.455 96.4811 108.39 0.0 EmptyLabel 0 0
+APD2 79.7285 95.0485 112.285 0.0 EmptyLabel 0 0
+APD3 81.0443 92.3251 116.992 0.0 EmptyLabel 0 0
+APD4 81.3877 89.6379 122.798 1024.0  left precentral  0 0
+IHA1 95.636 140.217 99.2914 0.0 EmptyLabel 0 0
+IHA2 97.996 141.354 109.25 0.0 EmptyLabel 0 0
+IHA3 99.1479 141.54 119.242 0.0 EmptyLabel 0 0
+IHA4 99.0918 140.775 129.268 0.0 EmptyLabel 0 0
+IHA5 94.1658 138.625 136.6 1028.0  left superior frontal  0 0
+IHA6 85.0748 132.901 139.993 0.0 EmptyLabel 0 0
+IHP1 99.4304 84.5549 102.623 0.0 EmptyLabel 0 0
+IHP2 100.069 93.9229 108.345 2023.0  right posterior cingulate  0 0
+IHP3 100.676 102.125 114.986 0.0 EmptyLabel 0 0
+IHP4 100.174 111.08 120.779 0.0 EmptyLabel 0 0
+IHP5 100.78 119.283 127.42 2028.0  right superior frontal  0 0
+IHP6 97.9608 128.039 132.398 1028.0  left superior frontal  0 0
+LF1 85.2008 202.796 73.918 1012.0  left lateral orbitofrontal  0 0
+LF2 78.4957 202.96 82.601 1012.0  left lateral orbitofrontal  0 0
+LF3 72.2279 198.783 89.8938 1028.0  left superior frontal  0 0
+LF4 66.7319 192.955 95.9786 0.0 EmptyLabel 0 0
+LF5 61.7721 184.488 99.7906 0.0 EmptyLabel 0 0
+LF6 58.5216 174.962 100.34 0.0 EmptyLabel 0 0
+LF7 52.1492 163.146 99.9831 0.0 EmptyLabel 0 0
+LF8 49.0644 155.862 99.6866 0.0 EmptyLabel 0 0
+LFV1 91.8384 183.73 118.189 1028.0  left superior frontal  0 0
+LFV2 87.5495 176.277 122.021 1028.0  left superior frontal  0 0
+LFV3 78.762 165.135 123.951 1028.0  left superior frontal  0 0
+LFV4 73.4938 158.728 122.912 0.0 EmptyLabel 0 0
+LFV5 66.747 151.01 119.888 1028.0  left superior frontal  0 0
+LFV6 60.9727 143.256 115.764 1003.0  left caudal middle frontal  0 0
+LFV7 54.3248 137.241 111.857 0.0 EmptyLabel 0 0
+LFV8 48.1151 129.461 108.779 1003.0  left caudal middle frontal  0 0
+LO1 87.6633 28.0141 56.8814 1011.0  left lateral occipital  0 0
+LO2 80.9901 29.3441 64.6453 1011.0  left lateral occipital  0 0
+LO3 74.3488 31.8396 71.4901 1011.0  left lateral occipital  0 0
+LO4 67.9432 35.3225 79.3998 1029.0  left superior parietal  0 0
+LO5 63.1808 39.7829 86.2302 1008.0  left inferior parietal  0 0
+LO6 56.9729 46.6732 92.3746 1008.0  left inferior parietal  0 0
+LO7 53.114 54.9277 98.4147 1008.0  left inferior parietal  0 0
+LO8 50.1926 63.7731 102.401 0.0 EmptyLabel 0 0
+LOF1 68.886 140.791 42.2699 1009.0  left inferior temporal  0 0
+LOF2 64.518 149.491 43.3504 1009.0  left inferior temporal  0 0
+LOF3 58.0744 155.393 48.4299 1009.0  left inferior temporal  0 0
+LOF4 51.4013 156.723 56.1939 1030.0  left superior temporal  0 0
+LOF5 47.1142 154.422 64.4641 1030.0  left superior temporal  0 0
+LOF6 44.9777 147.501 72.176 1030.0  left superior temporal  0 0
+LOF7 42.5706 140.221 77.8675 1030.0  left superior temporal  0 0
+LOF8 40.3003 132.224 85.5065 0.0 EmptyLabel 0 0
+LPF1 63.8758 67.1091 122.6 0.0 EmptyLabel 0 0
+LPF2 56.955 74.6228 121.801 1022.0  left postcentral  0 0
+LPF3 51.3092 83.6258 121.004 1022.0  left postcentral  0 0
+LPF4 48.2122 93.0319 117.993 0.0 EmptyLabel 0 0
+LPFV1 81.1651 148.171 133.485 1028.0  left superior frontal  0 0
+LPFV2 74.5901 139.109 133.363 0.0 EmptyLabel 0 0
+LPFV3 69.1561 130.461 133.171 0.0 EmptyLabel 0 0
+LPFV4 63.4516 121.452 130.959 0.0 EmptyLabel 0 0
+LPFV5 58.6178 112.496 126.656 1024.0  left precentral  0 0
+LPFV6 53.8827 105.244 121.47 1024.0  left precentral  0 0
+LPV1 86.7337 46.1818 107.797 0.0 EmptyLabel 0 0
+LPV2 76.0233 48.6 107.946 1029.0  left superior parietal  0 0
+LPV3 67.1248 52.4449 108.044 0.0 EmptyLabel 0 0
+LPV4 59.3655 61.0712 108.417 0.0 EmptyLabel 0 0
+LPV5 52.6804 69.5722 108.682 1031.0  left supramarginal  0 0
+LPV6 45.4262 76.9704 109.921 0.0 EmptyLabel 0 0
+LTP1 35.3617 74.9757 52.1992 1009.0  left inferior temporal  0 0
+LTP2 33.0553 74.5501 61.4469 1015.0  left middle temporal  0 0
+LTP3 33.133 74.8614 71.5459 1015.0  left middle temporal  0 0
+LTP4 34.4187 76.1238 81.6109 1031.0  left supramarginal  0 0
+LTP5 37.8529 77.1357 91.4623 0.0 EmptyLabel 0 0
+LTP6 42.4252 80.3533 99.3687 1031.0  left supramarginal  0 0
+PFD1 86.2905 118.225 107.473 1023.0  left posterior cingulate  0 0
+PFD2 85.9929 120.058 112.685 0.0 EmptyLabel 0 0
+PFD3 85.4597 120.904 116.832 0.0 EmptyLabel 0 0
+PFD4 84.0878 122.862 122.151 0.0 EmptyLabel 0 0
+PPD1 79.0898 85.6804 106.563 0.0 EmptyLabel 0 0
+PPD2 79.7326 86.3117 111.595 0.0 EmptyLabel 0 0
+PPD3 80.3755 86.9429 116.628 0.0 EmptyLabel 0 0
+PPD4 81.9908 87.5379 120.561 0.0 EmptyLabel 0 0
+RF1 113.466 204.806 73.5429 2012.0  right lateral orbitofrontal  0 0
+RF2 122.502 200.244 75.3923 2012.0  right lateral orbitofrontal  0 0
+RF3 130.866 194.669 77.2222 2027.0  right rostral middle frontal  0 0
+RF4 137.99 186.978 80.0052 2027.0  right rostral middle frontal  0 0
+RF5 142.464 178.972 84.0106 2020.0  right pars triangularis  0 0
+RF6 146.2 169.414 87.9602 2020.0  right pars triangularis  0 0
+RF7 147.552 159.119 91.0585 2020.0  right pars triangularis  0 0
+RF8 147.896 149.488 94.3001 0.0 EmptyLabel 0 0
+RFV1 97.4942 195.385 107.509 0.0 EmptyLabel 0 0
+RFV2 101.835 188.879 113.661 2028.0  right superior frontal  0 0
+RFV3 108.156 181.672 118.571 2028.0  right superior frontal  0 0
+RFV4 115.715 174.007 120.309 2028.0  right superior frontal  0 0
+RFV5 120.386 166.833 120.33 0.0 EmptyLabel 0 0
+RFV6 129.924 155.892 118.606 2027.0  right rostral middle frontal  0 0
+RFV7 134.356 149.524 115.687 0.0 EmptyLabel 0 0
+RFV8 140.199 141.353 112.499 0.0 EmptyLabel 0 0
+RO1 123.72 46.0245 35.8948 0.0 EmptyLabel 0 0
+RO2 132.118 46.7662 41.2445 0.0 EmptyLabel 0 0
+RO3 137.666 48.1548 49.9268 0.0 EmptyLabel 0 0
+RO4 142.34 51.2834 58.8252 0.0 EmptyLabel 0 0
+RO5 145.838 54.6262 66.8385 2011.0  right lateral occipital  0 0
+RO6 149.572 58.9565 75.9166 0.0 EmptyLabel 0 0
+RO7 149.981 63.7516 84.3231 2008.0  right inferior parietal  0 0
+RO8 150.658 70.6996 92.8753 2008.0  right inferior parietal  0 0
+ROF1 125.003 155.696 36.367 2009.0  right inferior temporal  0 0
+ROF2 134.942 157.505 39.6455 0.0 EmptyLabel 0 0
+ROF3 143.175 156.004 45.8414 2015.0  right middle temporal  0 0
+ROF4 148.254 153.625 54.2687 0.0 EmptyLabel 0 0
+ROF5 150.918 149.344 62.7639 0.0 EmptyLabel 0 0
+ROF6 152.609 145.099 72.3578 2030.0  right superior temporal  0 0
+ROF7 152.755 139.005 79.9289 2024.0  right precentral  0 0
+ROF8 151.928 132.946 88.5987 2024.0  right precentral  0 0
+RPF1 145.74 82.2109 115.398 2031.0  right supramarginal  0 0
+RPF2 149.023 92.9028 113.929 2031.0  right supramarginal  0 0
+RPF3 148.914 103.521 111.752 2022.0  right postcentral  0 0
+RPF4 148.502 112.614 108.474 0.0 EmptyLabel 0 0
+RPV1 112.486 49.7369 112.812 2029.0  right superior parietal  0 0
+RPV2 122.422 50.7623 111.996 2029.0  right superior parietal  0 0
+RPV3 131.078 56.4595 109.648 0.0 EmptyLabel 0 0
+RPV4 138.052 63.5992 105.55 0.0 EmptyLabel 0 0
+RTP1 136.125 82.6449 39.6813 45.0  right cerebellum exterior  0 0
+RTP2 146.702 79.1503 39.4595 45.0  right cerebellum exterior  0 0
+RTP3 153.189 76.7616 45.7428 0.0 EmptyLabel 0 0
+RTP4 155.282 75.7458 55.5552 0.0 EmptyLabel 0 0
+RTP5 156.433 75.9318 65.5474 2015.0  right middle temporal  0 0
+RTP6 156.377 75.1667 75.5734 2008.0  right inferior parietal  0 0
+RTP7 156.052 76.617 85.7986 0.0 EmptyLabel 0 0
+RTP8 153.879 77.2678 95.1192 2008.0  right inferior parietal  0 0

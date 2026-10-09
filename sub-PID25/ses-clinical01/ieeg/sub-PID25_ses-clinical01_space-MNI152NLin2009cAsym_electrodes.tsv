@@ -1,0 +1,121 @@
+name	x	y	z	size	anat_label	tissue_atropos	region_coarse	atlas_label_aal3_coarse	native_T00mri_x	native_T00mri_y	native_T00mri_z
+LA01	-20.696	-7.527	-13.851	n/a	left amygdala	gray matter	amygdala	hippocampus	-16.948	13.256	-11.649
+LA02	-26.523	-7.657	-14.000	n/a	EmptyLabel	white matter	wm	hippocampus	-22.049	13.248	-12.602
+LA03	-32.276	-7.626	-14.722	n/a	EmptyLabel	white matter	wm	hippocampus	-27.149	13.240	-13.555
+LA04	-37.908	-6.923	-14.876	n/a	EmptyLabel	white matter	wm	stg	-31.793	13.299	-14.496
+LA05	-43.754	-6.196	-13.830	n/a	left superior temporal	gray matter	stg	stg	-36.876	13.011	-14.489
+LA06	-48.959	-5.709	-15.128	n/a	left superior temporal	gray matter	stg	ltc	-41.587	13.507	-15.303
+LA07	-53.815	-5.371	-15.551	n/a	left middle temporal	gray matter	ltc	ltc	-46.687	13.500	-16.255
+LA08	-59.355	-4.939	-14.963	n/a	left middle temporal	gray matter	ltc	ltc	-51.837	13.650	-16.119
+LA09	-65.813	-5.526	-16.494	n/a	left middle temporal	gray matter	ltc	ltc	-56.937	13.643	-17.072
+LA10	-70.779	-6.048	-17.825	n/a	EmptyLabel	CSF	n/a	ltc	-61.581	13.701	-18.014
+LA11	-76.574	-5.908	-17.626	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-66.731	13.851	-17.878
+LA12	-81.878	-6.059	-18.598	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-71.375	13.909	-18.820
+LB01	-25.359	-24.576	-13.104	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-21.434	-3.609	-14.393
+LB02	-30.754	-25.649	-11.731	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-26.367	-5.051	-13.682
+LB03	-35.698	-26.446	-11.197	n/a	EmptyLabel	gray matter	n/a	hippocampus	-30.861	-6.147	-13.921
+LB04	-40.962	-27.175	-9.313	n/a	EmptyLabel	white matter	wm	hippocampus	-35.861	-7.151	-13.082
+LB05	-45.324	-28.181	-7.215	n/a	EmptyLabel	white matter	wm	ltc	-40.338	-8.527	-12.361
+LB06	-50.508	-28.158	-4.299	n/a	left middle temporal	gray matter	ltc	ltc	-45.338	-9.531	-11.522
+LB07	-55.261	-27.901	-1.273	n/a	left superior temporal	gray matter	stg	ltc	-49.882	-10.469	-10.673
+LB08	-60.549	-28.121	2.117	n/a	EmptyLabel	white matter	wm	ltc	-54.881	-11.473	-9.834
+LB09	-66.042	-30.158	3.837	n/a	left superior temporal	gray matter	stg	ltc	-59.815	-12.915	-9.124
+LB10	-71.734	-32.176	3.638	n/a	EmptyLabel	CSF	n/a	ltc	-64.814	-13.919	-8.285
+LB11	-77.905	-34.074	4.131	n/a	EmptyLabel	EmptyLabel	n/a	ltc	-69.748	-15.361	-7.575
+LB12	-83.427	-35.119	5.212	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-74.291	-16.299	-6.725
+LC01	-39.472	0.773	-2.932	n/a	left insula	gray matter	insula	insula	-34.135	18.027	-3.704
+LC02	-44.110	-1.146	-2.040	n/a	left insula	CSF	insula	insula	-38.496	16.055	-4.200
+LC03	-47.737	-3.979	-0.474	n/a	EmptyLabel	CSF	n/a	stg	-42.775	13.367	-3.864
+LC04	-53.296	-6.375	-0.021	n/a	EmptyLabel	white matter	wm	stg	-47.526	10.891	-4.500
+LC05	-57.479	-8.325	2.247	n/a	EmptyLabel	white matter	wm	stg	-51.871	8.640	-4.036
+LC06	-61.889	-11.012	0.249	n/a	EmptyLabel	white matter	wm	ltc	-56.233	6.668	-4.531
+LC07	-66.668	-13.364	0.753	n/a	left superior temporal	gray matter	stg	ltc	-60.577	4.417	-4.067
+LC08	-71.608	-15.291	1.372	n/a	EmptyLabel	CSF	n/a	ltc	-64.939	2.445	-4.563
+LD01	-35.550	-10.190	14.312	n/a	left insula	gray matter	insula	insula	-33.919	4.886	8.093
+LD02	-41.289	-10.159	16.993	n/a	left postcentral	gray matter	somato	motor	-38.662	5.261	9.328
+LD03	-46.375	-9.784	18.533	n/a	EmptyLabel	white matter	wm	motor	-43.404	5.636	10.564
+LD04	-50.881	-7.857	21.704	n/a	EmptyLabel	white matter	wm	somato	-48.130	5.732	12.759
+LD05	-56.237	-7.736	23.511	n/a	left postcentral	gray matter	somato	somato	-52.806	5.669	13.866
+LD06	-62.709	-7.596	24.963	n/a	EmptyLabel	white matter	wm	somato	-58.005	5.978	15.090
+LD07	-67.590	-5.543	25.988	n/a	EmptyLabel	CSF	n/a	somato	-63.270	6.724	16.443
+LD08	-73.013	-4.174	27.368	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-68.012	7.099	17.678
+LE01	-9.229	43.095	3.409	n/a	left rostral anterior cingulate	gray matter	cing	cing	-8.332	52.314	15.185
+LE02	-13.287	41.417	5.921	n/a	EmptyLabel	white matter	wm	cing	-12.743	50.501	15.778
+LE03	-17.325	40.263	8.759	n/a	EmptyLabel	white matter	wm	cing	-17.610	48.621	16.360
+LE04	-21.770	38.816	12.156	n/a	EmptyLabel	white matter	wm	pfc	-22.003	46.529	17.913
+LE05	-26.985	37.373	13.941	n/a	EmptyLabel	white matter	wm	pfc	-26.414	44.715	18.505
+LE06	-33.160	35.714	14.875	n/a	EmptyLabel	white matter	wm	ifg	-31.281	42.836	19.087
+LE07	-38.391	34.253	15.664	n/a	left rostral middle frontal	gray matter	pfc	ifg	-35.759	41.460	19.808
+LE08	-41.969	33.532	20.650	n/a	EmptyLabel	white matter	wm	ifg	-40.152	39.367	21.361
+LE09	-46.077	31.636	22.404	n/a	left rostral middle frontal	gray matter	pfc	ifg	-44.563	37.554	21.954
+LE10	-51.650	29.159	23.258	n/a	EmptyLabel	CSF	n/a	ifg	-49.497	36.112	22.664
+LE11	-55.503	26.996	25.077	n/a	EmptyLabel	CSF	n/a	ifg	-53.908	34.298	23.257
+LE12	-60.430	24.600	27.646	n/a	EmptyLabel	EmptyLabel	n/a	ifg	-58.235	31.768	24.681
+LF01	-4.739	-50.506	27.328	n/a	left isthmus cingulate	gray matter	cing	cing	-5.839	-33.202	18.384
+LF02	-12.801	-52.656	28.868	n/a	EmptyLabel	white matter	wm	precuneus	-10.789	-34.364	18.134
+LF03	-17.453	-53.653	31.785	n/a	EmptyLabel	white matter	wm	precuneus	-15.740	-35.526	17.884
+LF04	-22.085	-53.067	35.088	n/a	EmptyLabel	white matter	wm	occ	-20.690	-36.689	17.634
+LF05	-27.168	-52.079	38.535	n/a	EmptyLabel	gray matter	n/a	parietal	-25.641	-37.851	17.384
+LF06	-32.500	-50.342	40.728	n/a	EmptyLabel	gray matter	n/a	parietal	-30.201	-38.510	17.274
+LF07	-39.105	-51.063	41.004	n/a	left inferior parietal	gray matter	parietal	parietal	-35.086	-40.110	16.896
+LF08	-45.362	-52.651	40.590	n/a	left supramarginal	gray matter	parietal	parietal	-40.102	-40.835	16.775
+LF09	-50.281	-53.778	40.603	n/a	left supramarginal	gray matter	parietal	parietal	-45.053	-41.997	16.525
+LF10	-54.243	-56.195	40.193	n/a	EmptyLabel	white matter	wm	parietal	-49.547	-43.093	16.286
+LF11	-59.056	-58.815	39.731	n/a	EmptyLabel	CSF	n/a	parietal	-54.954	-44.322	16.025
+LF12	-64.053	-60.261	39.610	n/a	EmptyLabel	EmptyLabel	n/a	parietal	-59.448	-45.418	15.787
+LG01	-38.790	-30.906	8.992	n/a	EmptyLabel	white matter	wm	stg	-35.878	-12.441	-0.038
+LG02	-43.199	-27.289	7.565	n/a	EmptyLabel	white matter	wm	stg	-40.025	-9.346	-1.147
+LG03	-47.359	-23.470	6.731	n/a	EmptyLabel	white matter	wm	stg	-44.155	-6.530	-1.296
+LG04	-51.904	-19.861	5.709	n/a	EmptyLabel	white matter	wm	stg	-48.285	-3.714	-1.444
+LG05	-57.145	-17.803	1.145	n/a	EmptyLabel	white matter	wm	stg	-51.977	-0.553	-2.542
+LG06	-61.769	-15.471	1.466	n/a	EmptyLabel	white matter	wm	stg	-56.106	2.263	-2.690
+LG07	-65.871	-12.939	2.210	n/a	left superior temporal	gray matter	stg	stg	-60.170	4.641	-2.967
+LG08	-69.704	-9.807	2.156	n/a	EmptyLabel	CSF	n/a	stg	-63.844	7.523	-3.105
+LH01	-39.902	-43.085	12.594	n/a	EmptyLabel	white matter	wm	stg	-36.498	-24.391	0.662
+LH02	-45.257	-42.734	11.266	n/a	EmptyLabel	white matter	wm	stg	-41.093	-24.491	-1.368
+LH03	-50.641	-43.033	11.237	n/a	EmptyLabel	gray matter	n/a	stg	-45.605	-25.309	-2.567
+LH04	-56.575	-42.972	9.930	n/a	left superior temporal	white matter	stg	ltc	-50.656	-25.475	-4.608
+LH05	-61.930	-42.497	10.055	n/a	EmptyLabel	white matter	wm	ltc	-55.234	-25.854	-5.679
+LH06	-66.766	-44.072	7.642	n/a	left superior temporal	gray matter	stg	ltc	-59.762	-26.392	-7.838
+LH07	-72.046	-46.463	5.576	n/a	EmptyLabel	CSF	n/a	ltc	-64.274	-27.209	-9.036
+LH08	-77.740	-47.801	2.701	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-68.869	-27.309	-11.067
+LI01	-32.832	18.614	-28.171	n/a	EmptyLabel	CSF	n/a	tpole	-26.160	39.292	-17.450
+LI02	-34.179	14.628	-23.888	n/a	EmptyLabel	CSF	n/a	tpole	-27.858	34.624	-15.653
+LI03	-35.537	10.056	-20.619	n/a	EmptyLabel	CSF	n/a	tpole	-29.573	30.234	-14.817
+LI04	-37.737	5.517	-17.554	n/a	left insula	CSF	insula	tpole	-31.745	25.779	-13.991
+LI05	-40.373	1.807	-15.993	n/a	left insula	CSF	insula	tpole	-33.934	21.603	-14.125
+LI06	-42.872	-2.614	-14.875	n/a	left superior temporal	CSF	stg	stg	-36.056	16.990	-14.388
+LI07	-44.253	-6.241	-13.852	n/a	left superior temporal	gray matter	stg	stg	-37.332	12.946	-14.500
+LI08	-45.763	-10.943	-12.514	n/a	EmptyLabel	white matter	wm	stg	-39.894	7.987	-13.814
+LI09	-47.369	-16.378	-13.748	n/a	EmptyLabel	white matter	wm	ltc	-41.493	3.002	-14.194
+LI10	-50.011	-21.373	-14.536	n/a	EmptyLabel	white matter	wm	ltc	-43.682	-1.174	-14.329
+LI11	-52.025	-26.323	-11.946	n/a	EmptyLabel	white matter	wm	ltc	-45.804	-5.788	-14.591
+LI12	-53.468	-29.087	-5.849	n/a	left middle temporal	gray matter	ltc	ltc	-47.520	-10.177	-13.755
+LK01	-38.667	-49.110	-16.022	n/a	EmptyLabel	white matter	wm	vtc	-33.011	-25.291	-22.578
+LK02	-40.809	-52.895	-12.219	n/a	left fusiform	gray matter	vtc	vtc	-35.414	-28.554	-19.318
+LK03	-43.478	-54.902	-9.065	n/a	left fusiform	gray matter	vtc	ltc	-37.833	-31.538	-17.018
+LK04	-45.826	-56.764	-3.529	n/a	left inferior temporal	gray matter	ltc	ltc	-40.758	-34.430	-13.640
+LK05	-49.124	-58.288	2.514	n/a	EmptyLabel	white matter	wm	ltc	-43.178	-37.414	-11.340
+LK06	-53.129	-59.807	9.551	n/a	left middle temporal	white matter	ltc	ltc	-46.037	-40.743	-8.092
+LK07	-55.835	-61.910	13.172	n/a	EmptyLabel	white matter	wm	ltc	-48.523	-43.289	-5.663
+LK08	-58.861	-65.712	17.750	n/a	EmptyLabel	CSF	n/a	ltc	-51.381	-46.618	-2.414
+LK09	-61.532	-68.675	21.140	n/a	EmptyLabel	CSF	n/a	parietal	-54.323	-49.230	0.003
+LK10	-63.420	-71.563	25.826	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-56.726	-52.493	3.263
+LK11	-66.808	-74.056	30.799	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-60.107	-55.451	6.630
+LK12	-69.803	-76.396	35.840	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-63.032	-58.342	10.007
+RB01	21.963	-14.371	-26.352	n/a	EmptyLabel	white matter	wm	hippocampus	18.082	7.766	-21.163
+RB02	27.680	-12.799	-27.919	n/a	EmptyLabel	white matter	wm	hippocampus	23.016	9.208	-21.874
+RB03	33.194	-11.668	-27.837	n/a	EmptyLabel	white matter	wm	hippocampus	27.576	9.866	-21.763
+RB04	39.580	-11.220	-30.917	n/a	right fusiform	gray matter	vtc	vtc	32.576	10.870	-22.602
+RB05	45.966	-9.531	-32.421	n/a	EmptyLabel	white matter	wm	ltc	37.576	11.874	-23.441
+RB06	50.548	-8.658	-32.269	n/a	right inferior temporal	gray matter	ltc	ltc	42.592	12.599	-23.320
+RB07	55.091	-8.162	-34.147	n/a	right middle temporal	gray matter	ltc	ltc	47.592	13.603	-24.159
+RB08	59.735	-8.637	-35.098	n/a	EmptyLabel	CSF	n/a	ltc	52.675	13.890	-24.166
+RD01	33.241	-29.861	2.814	n/a	EmptyLabel	white matter	wm	hippocampus	27.310	-11.480	1.196
+RD02	38.386	-29.955	1.766	n/a	EmptyLabel	white matter	wm	stg	31.986	-11.417	0.089
+RD03	43.761	-29.471	2.161	n/a	EmptyLabel	white matter	wm	stg	37.136	-11.568	-0.047
+RD04	49.514	-29.418	2.334	n/a	right superior temporal	gray matter	stg	stg	42.285	-11.718	-0.182
+RD05	54.752	-29.481	2.527	n/a	right superior temporal	gray matter	stg	stg	46.978	-11.935	-0.329
+RD06	60.510	-29.494	1.961	n/a	EmptyLabel	gray matter	n/a	stg	52.128	-12.085	-0.465
+RD07	65.448	-29.315	1.902	n/a	right superior temporal	gray matter	stg	stg	56.755	-11.864	-0.483
+RD08	71.067	-30.382	0.667	n/a	EmptyLabel	CSF	n/a	ltc	62.427	-12.387	-0.737

@@ -1,0 +1,120 @@
+name	x	y	z	size	anat_label	tissue_atropos	region_coarse	atlas_label_aal3_coarse	native_T00mri_x	native_T00mri_y	native_T00mri_z
+LAT01	-23.640	3.087	-37.556	n/a	left inferior temporal	gray matter	ltc	tpole	-19.046	38.770	-17.651
+LAT02	-26.745	-3.126	-42.292	n/a	left entorhinal	gray matter	mtl_ctx	ltc	-22.149	31.326	-22.541
+LAT03	-33.487	-9.012	-46.421	n/a	left inferior temporal	gray matter	ltc	ltc	-29.520	25.182	-25.651
+LAT04	-44.008	-12.772	-46.001	n/a	EmptyLabel	CSF	n/a	ltc	-38.685	21.892	-23.635
+LDA01	-14.334	-9.652	-21.710	n/a	EmptyLabel	gray matter	n/a	hippocampus	-13.856	22.121	-3.515
+LDA02	-19.191	-10.193	-23.936	n/a	EmptyLabel	white matter	wm	hippocampus	-18.104	22.242	-5.857
+LDA03	-23.942	-10.930	-25.576	n/a	left hippocampus	white matter	hippocampus	hippocampus	-22.853	21.740	-7.285
+LDA04	-28.295	-10.682	-26.544	n/a	EmptyLabel	white matter	wm	hippocampus	-27.664	21.720	-8.677
+LDH01	-21.401	-22.226	-24.716	n/a	left parahippocampal	gray matter	mtl_ctx	hippocampus	-20.908	9.638	-7.124
+LDH02	-26.257	-21.048	-25.605	n/a	EmptyLabel	white matter	wm	hippocampus	-25.359	10.644	-8.403
+LDH03	-31.847	-19.962	-25.609	n/a	left parahippocampal	gray matter	mtl_ctx	vtc	-30.311	11.025	-8.767
+LDH04	-38.029	-19.025	-26.394	n/a	left fusiform	gray matter	vtc	vtc	-35.200	10.923	-9.166
+LPT01	-23.275	-50.867	-17.162	n/a	left cerebellem exterior	gray matter	n/a	n/a	-23.366	-17.585	-3.533
+LPT02	-31.090	-42.296	-24.220	n/a	left cerebellem exterior	gray matter	n/a	vtc	-29.125	-10.489	-9.445
+LPT03	-36.830	-35.598	-28.717	n/a	left fusiform	gray matter	vtc	n/a	-34.499	-3.982	-13.363
+LPT04	-44.783	-26.825	-31.244	n/a	EmptyLabel	CSF	n/a	ltc	-40.700	3.752	-15.231
+RAT01	17.789	-8.979	-30.161	n/a	right entorhinal	gray matter	mtl_ctx	hippocampus	14.363	23.884	-12.188
+RAT02	24.664	-8.198	-40.075	n/a	EmptyLabel	CSF	n/a	vtc	21.038	23.311	-19.755
+RAT03	31.855	-8.015	-48.613	n/a	EmptyLabel	CSF	n/a	vtc	28.880	23.715	-25.135
+RAT04	41.412	-7.043	-52.230	n/a	EmptyLabel	CSF	n/a	ltc	38.292	25.073	-27.291
+RDA01	11.278	-8.038	-21.101	n/a	EmptyLabel	CSF	n/a	hippocampus	8.135	23.385	-2.661
+RDA02	16.224	-8.230	-21.955	n/a	EmptyLabel	gray matter	n/a	hippocampus	13.087	23.004	-2.297
+RDA03	21.605	-8.228	-23.503	n/a	right hippocampus	white matter	hippocampus	hippocampus	18.056	23.188	-2.891
+RDA04	27.101	-8.698	-23.573	n/a	right hippocampus	white matter	hippocampus	hippocampus	23.008	22.806	-2.527
+RDH01	16.735	-20.462	-20.512	n/a	EmptyLabel	CSF	n/a	hippocampus	14.110	9.737	-1.300
+RDH02	22.198	-19.585	-20.338	n/a	EmptyLabel	gray matter	n/a	hippocampus	18.877	10.805	-0.831
+RDH03	27.883	-19.869	-21.485	n/a	EmptyLabel	white matter	wm	hippocampus	23.846	10.989	-1.425
+RDH04	33.140	-18.626	-22.104	n/a	EmptyLabel	white matter	wm	hippocampus	28.815	11.173	-2.020
+RG01	38.933	-0.691	-51.755	n/a	EmptyLabel	CSF	n/a	ltc	36.242	32.038	-24.865
+RG02	47.239	-5.513	-47.403	n/a	right inferior temporal	gray matter	ltc	ltc	43.144	25.788	-21.811
+RG03	51.690	-12.194	-39.645	n/a	right inferior temporal	gray matter	ltc	ltc	45.928	18.259	-15.166
+RG04	55.479	-18.647	-32.554	n/a	right inferior temporal	gray matter	ltc	ltc	50.178	11.470	-9.348
+RG05	58.016	-25.142	-25.667	n/a	EmptyLabel	white matter	wm	ltc	52.558	3.964	-3.740
+RG06	60.415	-30.341	-15.509	n/a	right middle temporal	gray matter	ltc	ltc	54.173	-2.798	3.882
+RG07	62.315	-36.059	-2.568	n/a	right middle temporal	gray matter	ltc	ltc	55.570	-10.986	10.363
+RG08	60.949	-44.331	5.481	n/a	EmptyLabel	white matter	wm	ltc	55.395	-18.384	16.783
+RG09	42.699	6.612	-47.595	n/a	right inferior temporal	gray matter	ltc	ltc	39.828	39.541	-19.931
+RG10	50.312	1.400	-42.647	n/a	right inferior temporal	gray matter	ltc	ltc	45.185	32.468	-15.056
+RG11	54.095	-3.904	-32.359	n/a	right middle temporal	gray matter	ltc	ltc	47.907	25.422	-8.375
+RG12	56.544	-9.748	-25.182	n/a	right middle temporal	gray matter	ltc	ltc	50.708	18.457	-2.688
+RG13	59.266	-16.999	-17.456	n/a	EmptyLabel	white matter	wm	ltc	52.447	10.729	4.864
+RG14	60.454	-23.434	-7.948	n/a	right middle temporal	gray matter	ltc	ltc	53.237	3.448	11.371
+RG15	60.922	-29.326	5.890	n/a	EmptyLabel	white matter	wm	stg	54.090	-4.315	17.843
+RG16	61.146	-38.364	13.315	n/a	EmptyLabel	gray matter	n/a	stg	54.398	-11.654	24.306
+RG17	46.495	15.170	-40.207	n/a	right middle temporal	gray matter	ltc	tpole	42.596	46.091	-10.109
+RG18	52.198	7.735	-31.965	n/a	EmptyLabel	white matter	wm	tpole	46.407	38.195	-3.412
+RG19	52.963	1.966	-22.143	n/a	EmptyLabel	gray matter	n/a	ltc	46.795	30.938	2.058
+RG20	53.974	-3.453	-13.361	n/a	right superior temporal	gray matter	stg	stg	48.271	22.833	7.545
+RG21	57.264	-11.216	-9.034	n/a	EmptyLabel	gray matter	n/a	stg	50.713	14.844	13.118
+RG22	59.555	-17.748	2.791	n/a	EmptyLabel	white matter	wm	stg	51.986	7.622	19.669
+RG23	59.776	-26.389	12.818	n/a	right superior temporal	gray matter	stg	stg	52.014	-0.659	25.025
+RG24	60.391	-34.079	20.407	n/a	EmptyLabel	white matter	wm	stg	52.445	-8.964	31.419
+RG25	44.626	22.506	-30.657	n/a	right superior temporal	gray matter	stg	tpole	40.195	51.596	-1.793
+RG26	50.728	16.154	-24.006	n/a	right superior temporal	gray matter	stg	tpole	43.540	44.208	3.903
+RG27	53.410	9.004	-13.518	n/a	right superior temporal	gray matter	stg	tpole	45.420	36.078	10.426
+RG28	55.886	2.300	-5.300	n/a	EmptyLabel	white matter	wm	tpole	46.835	28.455	15.948
+RG29	57.114	-3.135	2.263	n/a	right superior temporal	white matter	stg	stg	49.215	20.950	21.557
+RG30	59.846	-9.013	11.268	n/a	right postcentral	gray matter	somato	motor	51.112	13.385	27.122
+RG31	59.974	-16.542	19.041	n/a	right postcentral	gray matter	somato	somato	51.482	5.563	33.550
+RG32	60.480	-24.033	27.850	n/a	right supramarginal	gray matter	parietal	parietal	51.430	-2.800	39.901
+RG33	42.879	-44.638	65.041	n/a	right superior parietal	gray matter	parietal	somato	38.544	-28.396	63.932
+RG34	49.920	-35.132	62.276	n/a	EmptyLabel	CSF	n/a	somato	43.386	-18.834	63.096
+RG35	55.022	-26.440	57.346	n/a	EmptyLabel	CSF	n/a	somato	47.063	-10.250	60.074
+RG36	56.564	-17.346	51.592	n/a	right postcentral	gray matter	somato	somato	48.263	-1.474	56.869
+RG37	56.641	-10.538	42.620	n/a	EmptyLabel	white matter	wm	motor	48.033	7.691	52.576
+RG38	56.350	-1.962	34.798	n/a	right precentral	white matter	motor	somato	47.460	16.397	47.211
+RG39	55.405	4.576	27.854	n/a	EmptyLabel	white matter	wm	motor	46.326	24.962	42.796
+RG40	55.086	7.414	22.730	n/a	EmptyLabel	white matter	wm	ifg	45.280	31.431	40.228
+RG41	47.521	-49.300	59.209	n/a	EmptyLabel	CSF	n/a	parietal	43.578	-32.184	56.974
+RG42	56.215	-41.355	55.326	n/a	right supramarginal	gray matter	parietal	parietal	49.089	-24.013	56.077
+RG43	58.720	-31.418	49.781	n/a	right supramarginal	white matter	parietal	parietal	51.193	-14.637	52.994
+RG44	59.447	-23.723	42.097	n/a	EmptyLabel	white matter	wm	parietal	50.541	-6.014	48.623
+RG45	57.698	-15.907	30.019	n/a	right postcentral	gray matter	somato	somato	49.908	3.175	43.293
+RG46	57.112	-4.965	25.139	n/a	right postcentral	white matter	somato	somato	49.256	11.799	38.922
+RG47	55.760	-0.041	17.958	n/a	EmptyLabel	white matter	wm	motor	48.122	20.364	34.507
+RG48	52.777	3.699	8.786	n/a	EmptyLabel	white matter	wm	motor	46.101	28.895	29.012
+RG49	24.131	67.265	-12.677	n/a	EmptyLabel	CSF	n/a	pfc	20.234	88.790	21.835
+RG50	36.028	64.380	-7.538	n/a	right rostral middle frontal	gray matter	pfc	pfc	29.303	84.765	25.246
+RG51	42.324	57.989	-2.997	n/a	right rostral middle frontal	gray matter	pfc	pfc	35.178	78.881	28.248
+RG52	47.377	48.765	3.276	n/a	EmptyLabel	gray matter	n/a	pfc	39.411	69.783	31.860
+RG53	49.863	39.412	9.000	n/a	right pars triangularis	gray matter	ifg	ifg	41.311	60.474	34.261
+RG54	53.024	28.935	14.565	n/a	EmptyLabel	gray matter	n/a	ifg	42.789	50.624	36.584
+RG55	53.994	18.429	19.877	n/a	EmptyLabel	white matter	wm	ifg	44.205	41.257	38.942
+RG56	52.996	8.887	19.571	n/a	right precentral	CSF	motor	ifg	43.681	33.835	38.286
+RG57	22.300	71.925	-3.508	n/a	EmptyLabel	CSF	n/a	pfc	18.078	92.364	30.012
+RG58	30.643	66.710	2.740	n/a	EmptyLabel	CSF	n/a	pfc	25.743	87.115	34.216
+RG59	38.942	60.584	7.529	n/a	right rostral middle frontal	gray matter	pfc	pfc	31.803	79.782	37.113
+RG60	44.751	52.930	14.245	n/a	right rostral middle frontal	gray matter	pfc	pfc	35.975	71.166	40.759
+RG61	48.982	43.776	19.737	n/a	EmptyLabel	CSF	n/a	pfc	39.261	62.516	43.326
+RG62	51.996	34.254	25.058	n/a	right rostral middle frontal	gray matter	pfc	ifg	42.126	53.325	45.814
+RG63	53.672	23.601	30.501	n/a	right rostral middle frontal	gray matter	pfc	ifg	44.087	43.533	48.180
+RG64	54.344	14.067	34.793	n/a	right precentral	gray matter	motor	ifg	45.565	33.683	50.503
+RMT01	17.294	-27.538	-23.824	n/a	EmptyLabel	CSF	n/a	n/a	14.667	3.645	-4.779
+RMT02	25.470	-26.255	-30.329	n/a	EmptyLabel	CSF	n/a	n/a	22.403	5.581	-11.047
+RMT03	35.458	-21.866	-35.448	n/a	EmptyLabel	CSF	n/a	vtc	31.306	8.494	-15.128
+RMT04	44.350	-16.430	-38.727	n/a	EmptyLabel	CSF	n/a	vtc	39.584	11.749	-18.224
+ROF01	-12.998	18.391	-26.269	n/a	left lateral orbitofrontal	gray matter	ofc	ofc	-12.745	51.127	-0.020
+ROF02	-3.837	18.558	-27.358	n/a	EmptyLabel	CSF	n/a	ofc	-4.879	51.661	-0.354
+ROF04	18.935	23.071	-26.439	n/a	EmptyLabel	CSF	n/a	ofc	14.979	53.576	1.390
+ROF05	29.271	25.035	-25.463	n/a	EmptyLabel	CSF	n/a	ofc	24.697	54.262	2.223
+ROF06	39.285	26.792	-21.183	n/a	EmptyLabel	gray matter	n/a	ofc	33.879	53.194	5.888
+RP01	12.253	-65.216	68.330	n/a	right superior parietal	gray matter	parietal	parietal	6.543	-48.678	62.718
+RP02	20.115	-60.363	72.630	n/a	right superior parietal	CSF	parietal	parietal	14.626	-44.974	66.690
+RP03	28.243	-54.242	74.673	n/a	EmptyLabel	CSF	n/a	parietal	22.700	-39.090	67.821
+RP04	35.192	-47.650	73.649	n/a	EmptyLabel	CSF	n/a	somato	30.247	-32.217	67.986
+RP05	42.057	-41.398	68.608	n/a	EmptyLabel	CSF	n/a	somato	37.391	-25.320	67.114
+RP6	49.768	-34.577	63.556	n/a	EmptyLabel	CSF	n/a	somato	43.245	-18.433	64.125
+RP7	54.995	-25.860	57.357	n/a	EmptyLabel	CSF	n/a	somato	47.001	-9.766	60.109
+RP08	57.714	-17.964	49.151	n/a	right postcentral	white matter	somato	somato	48.904	-1.251	54.926
+RPT01	24.294	-60.663	-19.981	n/a	right cerebellum exterior	cerebellum	n/a	n/a	21.942	-30.304	-7.007
+RPT02	33.739	-54.359	-25.294	n/a	right cerebellum exterior	cerebellum	n/a	n/a	29.789	-23.667	-9.857
+RPT03	40.983	-47.711	-29.166	n/a	right cerebellum exterior	cerebellum	n/a	n/a	36.591	-17.230	-11.801
+RPT04	48.293	-40.486	-31.521	n/a	EmptyLabel	CSF	n/a	n/a	43.876	-10.733	-13.702
+RTO01	23.727	-87.443	39.806	n/a	right superior parietal	gray matter	parietal	occ	19.218	-64.388	36.259
+RTO02	34.438	-83.099	36.324	n/a	right inferior parietal	gray matter	parietal	occ	28.928	-61.523	34.252
+RTO03	42.002	-79.700	33.771	n/a	right inferior parietal	gray matter	parietal	occ	37.487	-57.325	32.263
+RTO04	48.886	-74.706	28.633	n/a	right inferior parietal	white matter	parietal	occ	45.457	-51.654	29.342
+RTO05	54.817	-69.080	23.954	n/a	right inferior parietal	gray matter	parietal	occ	50.828	-44.827	26.309
+RTO06	59.238	-62.452	17.206	n/a	EmptyLabel	gray matter	n/a	ltc	54.645	-36.643	22.259

@@ -1,0 +1,9 @@
+MNI Transform File
+%Tue Feb 01 22:05:20 2022>>> /opt/freesurfer/mni/bin/minctracc -clobber -debug /tmp/mritotal_231988//src_8_dxyz.mnc /opt/freesurfer/mni/bin/../share/mni_autoreg/average_305_8_dxyz.mnc transforms/talairach.auto.xfm -transformation /tmp/mritotal_231988//src_8tmp2c.xfm -lsq9 -xcorr -model_mask /opt/freesurfer/mni/bin/../share/mni_autoreg/average_305_8_mask.mnc -center 2.121247 16.327141 -17.749411 -step 4 4 4 -tol 0.004 -simplex 2
+%(Package mni_autoreg 0.99.6, compiled by nicks@terrier (x86_64-unknown-linux-gnu) on Fri Jun 01 01:26:16 EDT 2015)
+
+Transform_Type = Linear;
+Linear_Transform =
+ 1.20128726959229 -0.0194894950836897 -0.0841467976570129 -4.10885763168335
+ 0.0453310385346413 0.956740319728851 0.425556480884552 -4.7523946762085
+ 0.0775914341211319 -0.553391396999359 1.23587501049042 29.1681251525879;

@@ -1,0 +1,99 @@
+$Id: mri_segreg.c,v 1.113 2016/05/01 03:23:20 greve Exp $
+setenv SUBJECTS_DIR /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer
+cd /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/scripts
+mri_segreg --mov /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/tmp.bbregister.172719/template.nii --init-reg /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/tmp.bbregister.172719/bbr.pass1.dat --out-reg /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/T2raw.auto.dat --interp trilinear --wm-proj-abs 2 --tol 1e-8 --tol1d 1e-3 --c0 0 --mincost /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/T2raw.auto.dat.mincost --dof 6 --nmax 36 --param /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/T2raw.auto.dat.param --surf white --brute -0.1 0.1 0.1 --cur-reg /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/tmp.bbregister.172719/reg.curopt.dat --gm-proj-frac 0.5 --nsub 1 --gm-gt-wm 0.5 
+sysname  Linux
+hostname bsc05
+machine  x86_64
+user     tamjid
+movvol /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/tmp.bbregister.172719/template.nii
+regfile /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/tmp.bbregister.172719/bbr.pass1.dat
+subject sub-PID0002
+dof 6
+outregfile /project/davis_group_1/tamjid/3T_for_fmriprep/derivatives/freesurfer/sub-PID0002/mri/transforms/T2raw.auto.dat
+UseMask 0
+UseLH 1
+UseRH 1
+nsubsamp 1
+PenaltySign  -1
+PenaltySlope 0.500000
+PenaltyCenter 0.000000
+surfname white
+GMProjFrac 0.500000
+WMProjAbs 2.000000
+lhcostfile (null)
+rhcostfile (null)
+interp  trilinear (1)
+frame  0
+TolPowell 0.000000
+nMaxItersPowell 36
+n1dmin  3
+Profile   0
+Gdiag_no  -1
+AddNoise  0 (0)
+SynthSeed 1727107351
+TransRandMax 0.000000
+RotRandMax 0.000000
+Translations 0.000000 0.000000 0.000000
+Rotations   0.000000 0.000000 0.000000
+Input reg
+-0.07027   0.99720  -0.02557  -8.11313;
+ 0.99717   0.07091   0.02500   2.44672;
+ 0.02674  -0.02374  -0.99936  -23.98988;
+ 0.00000   0.00000   0.00000   1.00000;
+
+Initial costs ----------------
+Number of surface hits 232092
+WM  Intensity0   114.2554 +/-  21.7362
+Ctx Intensity0   146.3791 +/-  21.9082
+Pct Contrast0     24.8754 +/-  18.6801
+Cost   0.1823
+RelCost   0.1824
+
+Brute force preopt -0.1 0.1 0.1, n = 729
+     0  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000      0.1719   0.1719  0.0
+     1  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000   0.0000      0.1705   0.1705  0.0
+     2  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000   0.1000      0.1689   0.1689  0.0
+     4  -0.1000  -0.1000  -0.1000  -0.1000   0.0000   0.0000      0.1678   0.1678  0.0
+    12  -0.1000  -0.1000  -0.1000   0.0000   0.0000  -0.1000      0.1666   0.1666  0.0
+    28  -0.1000  -0.1000   0.0000  -0.1000  -0.1000   0.0000      0.1648   0.1648  0.0
+    30  -0.1000  -0.1000   0.0000  -0.1000   0.0000  -0.1000      0.1631   0.1631  0.0
+    39  -0.1000  -0.1000   0.0000   0.0000   0.0000  -0.1000      0.1617   0.1617  0.0
+   355   0.0000   0.0000   0.0000  -0.1000   0.0000   0.0000      0.1615   0.1615  0.0
+   364   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000      0.1591   0.1591  0.0
+
+Final costs ----------------
+Number of surface hits 232092
+WM  Intensity0   113.9412 +/-  21.2874
+Ctx Intensity0   146.8489 +/-  21.5741
+Pct Contrast0     25.4775 +/-  17.8654
+Cost   0.1493
+RelCost   0.1824
+Number of iterations     8
+Min cost was 0.149278
+RelMinCost   0.1493
+Number of FunctionCalls   676
+OptimizationTime 46.445000 sec
+Parameters at optimum (transmm, rotdeg)
+-0.37290 -0.05464  0.50158 -0.03385 -0.54459 -0.10437 
+Number of surface hits 232092
+WM  Intensity   113.9412 +/-  21.2874
+Ctx Intensity   146.8489 +/-  21.5741
+Pct Contrast     25.4775 +/-  17.8654
+Cost at optimum   0.1493
+RelCostOptimum   0.1493
+nhits= 232092 wmmn=  113.9412 wmstd= 21.2874 constd=   17.8654 ctxmn=  146.8489 ctxstd= 21.5741 conmn =  25.4775 costmn =   0.1493 
+#C#  -0.373  -0.055   0.502 -0.034 -0.545 -0.104 0.000000 0.000000 0.149278 113.941250 146.848931 25.477497 0.000000 0.500000     1 0
+Reg at min cost was 
+-0.06870   0.99751  -0.01602  -8.25318;
+ 0.99731   0.06908   0.02443   2.39226;
+ 0.02548  -0.01430  -0.99957  -23.56577;
+ 0.00000   0.00000   0.00000   1.00000;
+
+Original Reg - Optimal Reg
+-0.00157  -0.00031  -0.00954   0.14005;
+-0.00014   0.00183   0.00056   0.05446;
+ 0.00126  -0.00944   0.00021  -0.42411;
+ 0.00000   0.00000   0.00000   0.00000;
+
+Surface-RMS-Diff-mm 0.482182 0.261405 1.171259

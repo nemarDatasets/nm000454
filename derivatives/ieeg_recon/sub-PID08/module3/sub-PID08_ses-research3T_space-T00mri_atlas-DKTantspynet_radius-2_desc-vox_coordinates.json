@@ -1,0 +1,1882 @@
+{
+  "name": "LAT1",
+  "x": 69.301,
+  "y": 119.258,
+  "z": 37.7988,
+  "index": 1016,
+  "label": " left parahippocampal ",
+  "labels_sorted": [
+    " left parahippocampal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LAT2",
+  "x": 62.7054,
+  "y": 124.5,
+  "z": 32.2026,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left fusiform "
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "LAT3",
+  "x": 55.5327,
+  "y": 130.197,
+  "z": 26.6424,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "LAT4",
+  "x": 49.876,
+  "y": 137.958,
+  "z": 26.1021,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "LDA1",
+  "x": 79.4476,
+  "y": 130.426,
+  "z": 49.8159,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left hippocampus "
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "LDA2",
+  "x": 74.5923,
+  "y": 130.987,
+  "z": 48.0076,
+  "index": 17,
+  "label": " left hippocampus ",
+  "labels_sorted": [
+    " left hippocampus "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LDA3",
+  "x": 69.3214,
+  "y": 130.932,
+  "z": 47.1955,
+  "index": 17,
+  "label": " left hippocampus ",
+  "labels_sorted": [
+    " left hippocampus "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LDA4",
+  "x": 64.5073,
+  "y": 131.456,
+  "z": 46.3859,
+  "index": 17,
+  "label": " left hippocampus ",
+  "labels_sorted": [
+    " left hippocampus ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "LDH1",
+  "x": 71.8541,
+  "y": 122.364,
+  "z": 45.8197,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left hippocampus "
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "LDH2",
+  "x": 66.5642,
+  "y": 122.789,
+  "z": 46.0255,
+  "index": 17,
+  "label": " left hippocampus ",
+  "labels_sorted": [
+    " left hippocampus ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LDH3",
+  "x": 61.2933,
+  "y": 122.735,
+  "z": 45.2133,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left parahippocampal "
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3939393939
+  ]
+}
+{
+  "name": "LDH4",
+  "x": 56.0636,
+  "y": 122.643,
+  "z": 45.3999,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left fusiform "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LFP1",
+  "x": 90.3417,
+  "y": 195.031,
+  "z": 53.5552,
+  "index": 1014,
+  "label": " left medial orbitofrontal ",
+  "labels_sorted": [
+    " left medial orbitofrontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "LFP2",
+  "x": 87.6886,
+  "y": 204.633,
+  "z": 54.9695,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal ",
+    " left medial orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2121212121,
+    0.0606060606
+  ]
+}
+{
+  "name": "LFP3",
+  "x": 78.8377,
+  "y": 209.27,
+  "z": 57.446,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "LFP4",
+  "x": 69.7764,
+  "y": 207.028,
+  "z": 60.7046,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "LFP5",
+  "x": 60.4199,
+  "y": 203.136,
+  "z": 64.9208,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LFP6",
+  "x": 53.4733,
+  "y": 196.866,
+  "z": 69.9725,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LFP7",
+  "x": 49.8692,
+  "y": 188.894,
+  "z": 74.847,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal ",
+    "EmptyLabel",
+    " left pars triangularis "
+  ],
+  "percent_assigned": [
+    0.5757575758,
+    0.3636363636,
+    0.0606060606
+  ]
+}
+{
+  "name": "LFP8",
+  "x": 48.9892,
+  "y": 179.712,
+  "z": 78.5814,
+  "index": 1020,
+  "label": " left pars triangularis ",
+  "labels_sorted": [
+    " left pars triangularis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG1",
+  "x": 58.1589,
+  "y": 189.32,
+  "z": 87.5783,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "LG2",
+  "x": 56.9234,
+  "y": 179.006,
+  "z": 92.2897,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG3",
+  "x": 55.4853,
+  "y": 169.801,
+  "z": 95.0422,
+  "index": 1027,
+  "label": " left rostral middle frontal ",
+  "labels_sorted": [
+    " left rostral middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.2121212121
+  ]
+}
+{
+  "name": "LG4",
+  "x": 54.7668,
+  "y": 159.548,
+  "z": 99.7368,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG5",
+  "x": 52.8529,
+  "y": 150.245,
+  "z": 103.505,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left caudal middle frontal ",
+    " left rostral middle frontal "
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.3333333333,
+    0.1212121212
+  ]
+}
+{
+  "name": "LG6",
+  "x": 53.3843,
+  "y": 142.76,
+  "z": 108.245,
+  "index": 1003,
+  "label": " left caudal middle frontal ",
+  "labels_sorted": [
+    " left caudal middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "LG7",
+  "x": 51.5306,
+  "y": 132.939,
+  "z": 111.994,
+  "index": 1003,
+  "label": " left caudal middle frontal ",
+  "labels_sorted": [
+    " left caudal middle frontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG8",
+  "x": 49.1789,
+  "y": 122.579,
+  "z": 114.742,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left precentral "
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3939393939
+  ]
+}
+{
+  "name": "LG9",
+  "x": 51.9269,
+  "y": 186.304,
+  "z": 79.6938,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG10",
+  "x": 51.107,
+  "y": 176.606,
+  "z": 83.409,
+  "index": 1020,
+  "label": " left pars triangularis ",
+  "labels_sorted": [
+    " left pars triangularis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LG11",
+  "x": 50.3473,
+  "y": 166.39,
+  "z": 87.105,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars triangularis ",
+    " left rostral middle frontal "
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.2424242424,
+    0.0606060606
+  ]
+}
+{
+  "name": "LG12",
+  "x": 49.5275,
+  "y": 156.692,
+  "z": 90.8202,
+  "index": 1018,
+  "label": " left pars opercularis ",
+  "labels_sorted": [
+    " left pars opercularis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LG13",
+  "x": 47.1188,
+  "y": 147.77,
+  "z": 96.6214,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left rostral middle frontal "
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "LG14",
+  "x": 44.6277,
+  "y": 138.923,
+  "z": 100.425,
+  "index": 1024,
+  "label": " left precentral ",
+  "labels_sorted": [
+    " left precentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "LG15",
+  "x": 42.7138,
+  "y": 129.619,
+  "z": 104.193,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left precentral ",
+    " left caudal middle frontal "
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3333333333,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG16",
+  "x": 43.0672,
+  "y": 118.53,
+  "z": 106.819,
+  "index": 1024,
+  "label": " left precentral ",
+  "labels_sorted": [
+    " left precentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.2121212121
+  ]
+}
+{
+  "name": "LG17",
+  "x": 48.3778,
+  "y": 182.117,
+  "z": 69.6707,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars triangularis "
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LG18",
+  "x": 47.5389,
+  "y": 172.898,
+  "z": 74.4037,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars triangularis "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG19",
+  "x": 46.2021,
+  "y": 163.139,
+  "z": 78.1357,
+  "index": 1020,
+  "label": " left pars triangularis ",
+  "labels_sorted": [
+    " left pars triangularis ",
+    "EmptyLabel",
+    " left pars opercularis "
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.0909090909,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG20",
+  "x": 44.9255,
+  "y": 152.863,
+  "z": 81.8484,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars opercularis "
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LG21",
+  "x": 41.3213,
+  "y": 144.89,
+  "z": 86.7228,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars opercularis ",
+    " left precentral "
+  ],
+  "percent_assigned": [
+    0.4848484848,
+    0.4545454545,
+    0.0606060606
+  ]
+}
+{
+  "name": "LG22",
+  "x": 37.7362,
+  "y": 136.438,
+  "z": 90.5794,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left precentral "
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LG23",
+  "x": 36.5197,
+  "y": 125.645,
+  "z": 94.2729,
+  "index": 1024,
+  "label": " left precentral ",
+  "labels_sorted": [
+    " left precentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG24",
+  "x": 36.6546,
+  "y": 117.065,
+  "z": 98.9917,
+  "index": 1022,
+  "label": " left postcentral ",
+  "labels_sorted": [
+    " left postcentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LG25",
+  "x": 46.9187,
+  "y": 178.616,
+  "z": 61.5971,
+  "index": 1019,
+  "label": " left pars orbitalis ",
+  "labels_sorted": [
+    " left pars orbitalis ",
+    "EmptyLabel",
+    " left pars triangularis "
+  ],
+  "percent_assigned": [
+    0.5757575758,
+    0.3939393939,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG26",
+  "x": 45.5217,
+  "y": 169.374,
+  "z": 65.3483,
+  "index": 1019,
+  "label": " left pars orbitalis ",
+  "labels_sorted": [
+    " left pars orbitalis ",
+    " left pars triangularis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.303030303,
+    0.1818181818
+  ]
+}
+{
+  "name": "LG27",
+  "x": 44.2863,
+  "y": 159.06,
+  "z": 70.0596,
+  "index": 1020,
+  "label": " left pars triangularis ",
+  "labels_sorted": [
+    " left pars triangularis ",
+    " left pars opercularis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.4242424242,
+    0.3636363636,
+    0.2121212121
+  ]
+}
+{
+  "name": "LG28",
+  "x": 41.3986,
+  "y": 149.118,
+  "z": 73.8417,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG29",
+  "x": 38.21,
+  "y": 141.761,
+  "z": 77.7201,
+  "index": 1024,
+  "label": " left precentral ",
+  "labels_sorted": [
+    " left precentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG30",
+  "x": 34.8466,
+  "y": 131.72,
+  "z": 82.5176,
+  "index": 1024,
+  "label": " left precentral ",
+  "labels_sorted": [
+    " left precentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LG31",
+  "x": 33.4496,
+  "y": 122.478,
+  "z": 86.2687,
+  "index": 1022,
+  "label": " left postcentral ",
+  "labels_sorted": [
+    " left postcentral ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "LG32",
+  "x": 35.4908,
+  "y": 115.213,
+  "z": 89.9605,
+  "index": 1031,
+  "label": " left supramarginal ",
+  "labels_sorted": [
+    " left supramarginal ",
+    " left postcentral "
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LG33",
+  "x": 42.402,
+  "y": 152.179,
+  "z": 53.879,
+  "index": 1030,
+  "label": " left superior temporal ",
+  "labels_sorted": [
+    " left superior temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG34",
+  "x": 38.2809,
+  "y": 144.146,
+  "z": 58.7702,
+  "index": 1030,
+  "label": " left superior temporal ",
+  "labels_sorted": [
+    " left superior temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "LG35",
+  "x": 35.7709,
+  "y": 135.778,
+  "z": 63.592,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal ",
+    " left insula "
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.2121212121,
+    0.1818181818
+  ]
+}
+{
+  "name": "LG36",
+  "x": 32.2871,
+  "y": 126.771,
+  "z": 68.4279,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG37",
+  "x": 30.3351,
+  "y": 118.427,
+  "z": 74.2316,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left postcentral "
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LG38",
+  "x": 30.0132,
+  "y": 109.269,
+  "z": 78.9479,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG39",
+  "x": 30.2495,
+  "y": 100.134,
+  "z": 84.6462,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left supramarginal "
+  ],
+  "percent_assigned": [
+    0.7878787879,
+    0.2121212121
+  ]
+}
+{
+  "name": "LG40",
+  "x": 32.5535,
+  "y": 91.2432,
+  "z": 90.2775,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left supramarginal "
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2424242424
+  ]
+}
+{
+  "name": "LG41",
+  "x": 39.9882,
+  "y": 147.559,
+  "z": 44.8018,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LG42",
+  "x": 37.0816,
+  "y": 138.097,
+  "z": 49.6018,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2424242424
+  ]
+}
+{
+  "name": "LG43",
+  "x": 34.6729,
+  "y": 129.175,
+  "z": 55.403,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left middle temporal ",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1212121212,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG44",
+  "x": 32.1026,
+  "y": 121.324,
+  "z": 60.244,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG45",
+  "x": 29.7541,
+  "y": 111.885,
+  "z": 66.0259,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1515151515
+  ]
+}
+{
+  "name": "LG46",
+  "x": 29.889,
+  "y": 103.305,
+  "z": 70.7447,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.6060606061,
+    0.3939393939
+  ]
+}
+{
+  "name": "LG47",
+  "x": 31.0578,
+  "y": 94.8463,
+  "z": 75.4301,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1515151515
+  ]
+}
+{
+  "name": "LG48",
+  "x": 32.9462,
+  "y": 85.3399,
+  "z": 82.0576,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG49",
+  "x": 45.5004,
+  "y": 145.615,
+  "z": 31.5201,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left middle temporal ",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.3939393939,
+    0.3636363636,
+    0.2424242424
+  ]
+}
+{
+  "name": "LG50",
+  "x": 40.244,
+  "y": 138.014,
+  "z": 35.4654,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5757575758,
+    0.4242424242
+  ]
+}
+{
+  "name": "LG51",
+  "x": 37.179,
+  "y": 130.544,
+  "z": 42.3396,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.7575757576,
+    0.2424242424
+  ]
+}
+{
+  "name": "LG52",
+  "x": 33.6572,
+  "y": 122.497,
+  "z": 49.2113,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "LG53",
+  "x": 30.6302,
+  "y": 114.068,
+  "z": 54.0498,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.7272727273,
+    0.2727272727
+  ]
+}
+{
+  "name": "LG54",
+  "x": 28.5389,
+  "y": 107.237,
+  "z": 60.9098,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left middle temporal ",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.2424242424,
+    0.2121212121
+  ]
+}
+{
+  "name": "LG55",
+  "x": 29.3333,
+  "y": 98.126,
+  "z": 67.5899,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG56",
+  "x": 30.4831,
+  "y": 90.147,
+  "z": 73.2932,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG57",
+  "x": 49.876,
+  "y": 137.958,
+  "z": 26.1021,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.3333333333
+  ]
+}
+{
+  "name": "LG58",
+  "x": 42.4505,
+  "y": 130.668,
+  "z": 29.1348,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LG59",
+  "x": 38.7861,
+  "y": 123.212,
+  "z": 34.0285,
+  "index": 1009,
+  "label": " left inferior temporal ",
+  "labels_sorted": [
+    " left inferior temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG60",
+  "x": 35.8415,
+  "y": 114.708,
+  "z": 40.8642,
+  "index": 1009,
+  "label": " left inferior temporal ",
+  "labels_sorted": [
+    " left inferior temporal ",
+    "EmptyLabel",
+    " left middle temporal "
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0303030303,
+    0.0303030303
+  ]
+}
+{
+  "name": "LG61",
+  "x": 31.1844,
+  "y": 107.094,
+  "z": 46.79,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LG62",
+  "x": 29.6893,
+  "y": 99.327,
+  "z": 52.5962,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LG63",
+  "x": 29.8052,
+  "y": 91.2262,
+  "z": 58.3329,
+  "index": 1015,
+  "label": " left middle temporal ",
+  "labels_sorted": [
+    " left middle temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LG64",
+  "x": 32.6484,
+  "y": 82.838,
+  "z": 65.964,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left superior temporal ",
+    " left middle temporal "
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.0909090909,
+    0.0303030303
+  ]
+}
+{
+  "name": "LMT1",
+  "x": 57.8631,
+  "y": 87.9144,
+  "z": 40.1834,
+  "index": 6,
+  "label": " left cerebellem exterior ",
+  "labels_sorted": [
+    " left cerebellem exterior "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LMT2",
+  "x": 52.0829,
+  "y": 95.7874,
+  "z": 36.6472,
+  "index": 6,
+  "label": " left cerebellem exterior ",
+  "labels_sorted": [
+    " left cerebellem exterior "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LMT3",
+  "x": 45.8269,
+  "y": 103.562,
+  "z": 34.1264,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LMT4",
+  "x": 39.5931,
+  "y": 111.778,
+  "z": 33.622,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LO1",
+  "x": 89.0961,
+  "y": 41.8746,
+  "z": 85.598,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left cuneus "
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "LO2",
+  "x": 80.9541,
+  "y": 36.5541,
+  "z": 89.723,
+  "index": 1029,
+  "label": " left superior parietal ",
+  "labels_sorted": [
+    " left superior parietal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LO3",
+  "x": 70.8722,
+  "y": 37.9444,
+  "z": 91.1357,
+  "index": 1008,
+  "label": " left inferior parietal ",
+  "labels_sorted": [
+    " left inferior parietal ",
+    "EmptyLabel",
+    " left superior parietal "
+  ],
+  "percent_assigned": [
+    0.6666666667,
+    0.303030303,
+    0.0303030303
+  ]
+}
+{
+  "name": "LO4",
+  "x": 61.3809,
+  "y": 42.633,
+  "z": 90.633,
+  "index": 1008,
+  "label": " left inferior parietal ",
+  "labels_sorted": [
+    " left inferior parietal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "LO5",
+  "x": 53.6152,
+  "y": 50.1875,
+  "z": 89.161,
+  "index": 1008,
+  "label": " left inferior parietal ",
+  "labels_sorted": [
+    " left inferior parietal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LO6",
+  "x": 47.3592,
+  "y": 57.962,
+  "z": 86.6402,
+  "index": 1008,
+  "label": " left inferior parietal ",
+  "labels_sorted": [
+    " left inferior parietal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.8787878788,
+    0.1212121212
+  ]
+}
+{
+  "name": "LOF1",
+  "x": 106.881,
+  "y": 172.604,
+  "z": 46.2076,
+  "index": 2012,
+  "label": " right lateral orbitofrontal ",
+  "labels_sorted": [
+    " right lateral orbitofrontal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1515151515
+  ]
+}
+{
+  "name": "LOF2",
+  "x": 97.1156,
+  "y": 170.009,
+  "z": 43.4718,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " right medial orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.303030303
+  ]
+}
+{
+  "name": "LOF3",
+  "x": 86.3799,
+  "y": 167.697,
+  "z": 43.7847,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left medial orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "LOF4",
+  "x": 76.1834,
+  "y": 165.887,
+  "z": 46.0973,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.6363636364,
+    0.3636363636
+  ]
+}
+{
+  "name": "LOF5",
+  "x": 65.9869,
+  "y": 164.077,
+  "z": 48.4099,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal "
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4848484848
+  ]
+}
+{
+  "name": "LOF6",
+  "x": 55.7903,
+  "y": 162.267,
+  "z": 50.7225,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left lateral orbitofrontal ",
+    " left superior temporal "
+  ],
+  "percent_assigned": [
+    0.8484848485,
+    0.1212121212,
+    0.0303030303
+  ]
+}
+{
+  "name": "LOF7",
+  "x": 47.7662,
+  "y": 161.068,
+  "z": 56.982,
+  "index": 1019,
+  "label": " left pars orbitalis ",
+  "labels_sorted": [
+    " left pars orbitalis ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.5454545455,
+    0.4545454545
+  ]
+}
+{
+  "name": "LOF8",
+  "x": 43.0876,
+  "y": 159.088,
+  "z": 66.0985,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left pars triangularis ",
+    " left pars opercularis "
+  ],
+  "percent_assigned": [
+    0.5151515152,
+    0.4545454545,
+    0.0303030303
+  ]
+}
+{
+  "name": "LPT1",
+  "x": 57.5323,
+  "y": 82.0688,
+  "z": 41.0039,
+  "index": 6,
+  "label": " left cerebellem exterior ",
+  "labels_sorted": [
+    " left cerebellem exterior "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LPT2",
+  "x": 50.3216,
+  "y": 88.7252,
+  "z": 37.4794,
+  "index": 6,
+  "label": " left cerebellem exterior ",
+  "labels_sorted": [
+    " left cerebellem exterior "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "LPT3",
+  "x": 43.1521,
+  "y": 95.3442,
+  "z": 34.9536,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal ",
+    " left cerebellem exterior "
+  ],
+  "percent_assigned": [
+    0.696969697,
+    0.1515151515,
+    0.1515151515
+  ]
+}
+{
+  "name": "LPT4",
+  "x": 36.4837,
+  "y": 103.425,
+  "z": 36.4632,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " left inferior temporal "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
+{
+  "name": "RAT1",
+  "x": 113.963,
+  "y": 146.909,
+  "z": 28.08,
+  "index": 2009,
+  "label": " right inferior temporal ",
+  "labels_sorted": [
+    " right inferior temporal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RAT2",
+  "x": 121.503,
+  "y": 140.021,
+  "z": 25.5767,
+  "index": 2009,
+  "label": " right inferior temporal ",
+  "labels_sorted": [
+    " right inferior temporal ",
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "RAT3",
+  "x": 130.639,
+  "y": 134.2,
+  "z": 27.0562,
+  "index": 2009,
+  "label": " right inferior temporal ",
+  "labels_sorted": [
+    " right inferior temporal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RAT4",
+  "x": 138.643,
+  "y": 129.733,
+  "z": 30.6242,
+  "index": 2009,
+  "label": " right inferior temporal ",
+  "labels_sorted": [
+    " right inferior temporal "
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RDA1",
+  "x": 100.339,
+  "y": 134.586,
+  "z": 46.1918,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RDA2",
+  "x": 105.191,
+  "y": 133.103,
+  "z": 44.9657,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RDA3",
+  "x": 110.024,
+  "y": 132.1,
+  "z": 44.7574,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " right hippocampus "
+  ],
+  "percent_assigned": [
+    0.9090909091,
+    0.0909090909
+  ]
+}
+{
+  "name": "RDA4",
+  "x": 115.393,
+  "y": 130.679,
+  "z": 43.5145,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " right hippocampus "
+  ],
+  "percent_assigned": [
+    0.8181818182,
+    0.1818181818
+  ]
+}
+{
+  "name": "RDH1",
+  "x": 112.718,
+  "y": 122.461,
+  "z": 44.3417,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RDH2",
+  "x": 117.989,
+  "y": 122.516,
+  "z": 45.1538,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel"
+  ],
+  "percent_assigned": [
+    1
+  ]
+}
+{
+  "name": "RDH3",
+  "x": 123.2,
+  "y": 123.087,
+  "z": 45.9852,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " right parahippocampal "
+  ],
+  "percent_assigned": [
+    0.9393939394,
+    0.0606060606
+  ]
+}
+{
+  "name": "RDH4",
+  "x": 128.531,
+  "y": 122.625,
+  "z": 46.7781,
+  "index": 0,
+  "label": "EmptyLabel",
+  "labels_sorted": [
+    "EmptyLabel",
+    " right fusiform "
+  ],
+  "percent_assigned": [
+    0.9696969697,
+    0.0303030303
+  ]
+}
