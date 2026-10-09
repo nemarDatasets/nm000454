@@ -23,7 +23,7 @@ LB09	-59.383	-36.881	-7.243	n/a	EmptyLabel	white matter	wm	ltc	-55.053	-16.050	1
 LB10	-64.278	-38.413	-3.556	n/a	left middle temporal	gray matter	ltc	ltc	-59.557	-17.747	17.724
 LB11	-69.285	-40.607	-2.693	n/a	left middle temporal	gray matter	ltc	ltc	-64.037	-19.714	18.159
 LB12	-74.549	-42.564	-0.410	n/a	EmptyLabel	EmptyLabel	n/a	ltc	-68.541	-21.410	19.674
-LC01	-26.972	-31.349	-13.491	n/a	EmptyLabel	white matter	wm	hippocampus	-26.386	-12.496	9.872
+LC01	-26.972	-31.349	-13.491	n/a	EmptyLabel	white matter	wm	mtl_ctx	-26.386	-12.496	9.872
 LC02	-33.081	-32.594	-12.276	n/a	EmptyLabel	white matter	wm	hippocampus	-30.865	-14.463	10.308
 LC03	-38.136	-34.482	-11.549	n/a	EmptyLabel	white matter	wm	ltc	-34.882	-16.176	11.838
 LC04	-42.374	-37.468	-10.903	n/a	EmptyLabel	white matter	wm	ltc	-39.398	-18.349	13.251

@@ -11,7 +11,7 @@ LA09	-47.045	-3.113	-14.212	n/a	left superior temporal	gray matter	stg	stg	-47.6
 LA10	-52.436	-2.800	-13.234	n/a	EmptyLabel	white matter	wm	stg	-52.526	23.256	-13.721
 LA11	-56.618	-3.735	-12.242	n/a	left superior temporal	gray matter	stg	stg	-57.329	22.130	-13.014
 LA12	-58.817	-5.901	-8.269	n/a	left superior temporal	gray matter	stg	ltc	-59.489	19.082	-10.021
-LB01	-14.502	-18.975	-17.436	n/a	left ventral DC	deep gray matter	n/a	hippocampus	-15.087	10.888	-20.427
+LB01	-14.502	-18.975	-17.436	n/a	left ventral DC	deep gray matter	n/a	mtl_ctx	-15.087	10.888	-20.427
 LB02	-19.132	-18.599	-16.658	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-20.055	11.082	-20.149
 LB03	-23.784	-18.528	-15.871	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-25.023	11.276	-19.872
 LB04	-28.134	-18.659	-15.991	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-29.991	11.471	-19.595

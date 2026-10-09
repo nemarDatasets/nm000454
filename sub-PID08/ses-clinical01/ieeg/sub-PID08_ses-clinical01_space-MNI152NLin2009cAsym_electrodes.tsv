@@ -7,7 +7,7 @@ LDA1	-14.453	-11.454	-17.804	n/a	EmptyLabel	gray matter	n/a	hippocampus	-14.575	
 LDA2	-19.367	-11.175	-19.575	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-19.126	16.546	24.584
 LDA3	-25.058	-10.515	-20.289	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-24.068	16.494	23.772
 LDA4	-30.238	-9.692	-21.257	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-28.581	16.985	22.962
-LDH1	-21.956	-19.924	-20.757	n/a	EmptyLabel	white matter	wm	hippocampus	-21.693	8.462	22.396
+LDH1	-21.956	-19.924	-20.757	n/a	EmptyLabel	white matter	wm	mtl_ctx	-21.693	8.462	22.396
 LDH2	-28.077	-19.050	-20.317	n/a	left hippocampus	gray matter	hippocampus	hippocampus	-26.653	8.861	22.602
 LDH3	-33.923	-18.944	-21.577	n/a	EmptyLabel	white matter	wm	vtc	-31.594	8.810	21.790
 LDH4	-39.778	-17.393	-20.280	n/a	EmptyLabel	white matter	wm	ltc	-36.497	8.723	21.977
@@ -109,11 +109,11 @@ RAT01	22.901	2.164	-47.381	n/a	right inferior temporal	gray matter	ltc	vtc	17.78
 RAT02	31.261	-6.220	-49.557	n/a	right inferior temporal	CSF	ltc	vtc	24.853	25.016	2.153
 RAT03	41.535	-10.368	-45.474	n/a	right inferior temporal	gray matter	ltc	ltc	33.418	19.558	3.633
 RAT04	50.492	-13.842	-40.310	n/a	right inferior temporal	gray matter	ltc	ltc	40.921	15.371	7.201
-RDA1	9.605	-10.335	-21.836	n/a	EmptyLabel	CSF	n/a	hippocampus	5.011	19.920	22.768
-RDA2	14.281	-11.352	-23.721	n/a	EmptyLabel	gray matter	n/a	hippocampus	9.560	18.530	21.542
-RDA3	19.318	-11.769	-24.191	n/a	EmptyLabel	gray matter	n/a	hippocampus	14.091	17.590	21.334
-RDA4	25.550	-12.601	-26.070	n/a	EmptyLabel	white matter	wm	hippocampus	19.124	16.257	20.091
-RDH1	22.153	-20.956	-23.623	n/a	EmptyLabel	white matter	wm	hippocampus	16.617	8.553	20.918
-RDH2	28.377	-20.056	-22.256	n/a	EmptyLabel	white matter	wm	hippocampus	21.558	8.604	21.730
-RDH3	34.842	-18.398	-20.640	n/a	EmptyLabel	white matter	wm	hippocampus	26.443	9.140	22.562
+RDA1	9.605	-10.335	-21.836	n/a	EmptyLabel	CSF	n/a	mtl_ctx	5.011	19.920	22.768
+RDA2	14.281	-11.352	-23.721	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	9.560	18.530	21.542
+RDA3	19.318	-11.769	-24.191	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	14.091	17.590	21.334
+RDA4	25.550	-12.601	-26.070	n/a	EmptyLabel	white matter	wm	mtl_ctx	19.124	16.257	20.091
+RDH1	22.153	-20.956	-23.623	n/a	EmptyLabel	white matter	wm	mtl_ctx	16.617	8.553	20.918
+RDH2	28.377	-20.056	-22.256	n/a	EmptyLabel	white matter	wm	mtl_ctx	21.558	8.604	21.730
+RDH3	34.842	-18.398	-20.640	n/a	EmptyLabel	white matter	wm	mtl_ctx	26.443	9.140	22.562
 RDH4	40.130	-18.846	-20.112	n/a	EmptyLabel	white matter	wm	vtc	31.441	8.706	23.355

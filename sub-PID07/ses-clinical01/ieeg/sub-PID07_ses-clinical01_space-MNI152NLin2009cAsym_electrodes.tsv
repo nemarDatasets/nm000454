@@ -1,7 +1,7 @@
 name	x	y	z	size	anat_label	tissue_atropos	region_coarse	atlas_label_aal3_coarse	native_T00mri_x	native_T00mri_y	native_T00mri_z
 LA01	-13.932	-15.566	-20.896	n/a	EmptyLabel	deep gray matter	n/a	hippocampus	-8.351	19.720	-35.378
-LA02	-20.076	-17.589	-21.878	n/a	EmptyLabel	gray matter	n/a	hippocampus	-13.250	17.696	-35.414
-LA03	-24.744	-18.794	-21.460	n/a	EmptyLabel	gray matter	n/a	hippocampus	-18.125	16.402	-35.117
+LA02	-20.076	-17.589	-21.878	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	-13.250	17.696	-35.414
+LA03	-24.744	-18.794	-21.460	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	-18.125	16.402	-35.117
 LA04	-29.728	-20.072	-20.653	n/a	EmptyLabel	gray matter	n/a	hippocampus	-22.999	15.107	-34.821
 LA05	-35.578	-22.733	-20.388	n/a	EmptyLabel	white matter	wm	vtc	-27.914	13.399	-33.615
 LA06	-39.800	-25.233	-20.694	n/a	left fusiform	gray matter	vtc	ltc	-32.389	12.087	-33.309
@@ -11,10 +11,10 @@ LA09	-53.258	-31.851	-20.467	n/a	EmptyLabel	white matter	wm	ltc	-46.638	7.457	-3
 LA10	-59.065	-33.050	-20.164	n/a	EmptyLabel	white matter	wm	ltc	-51.525	5.798	-32.611
 LA11	-63.561	-34.354	-19.618	n/a	EmptyLabel	white matter	wm	ltc	-55.999	4.486	-32.305
 LA12	-68.829	-36.682	-16.718	n/a	EmptyLabel	CSF	n/a	ltc	-61.338	2.067	-31.440
-LB01	-13.093	-22.587	-20.824	n/a	brain stem	deep gray matter	n/a	hippocampus	-7.864	12.618	-35.283
-LB02	-19.743	-24.398	-20.927	n/a	EmptyLabel	white matter	wm	hippocampus	-12.750	10.959	-35.152
-LB03	-24.163	-25.879	-20.844	n/a	EmptyLabel	white matter	wm	hippocampus	-17.225	9.647	-34.846
-LB04	-28.497	-27.150	-21.650	n/a	left parahippocampal	gray matter	mtl_ctx	hippocampus	-22.072	8.401	-35.626
+LB01	-13.093	-22.587	-20.824	n/a	brain stem	deep gray matter	n/a	mtl_ctx	-7.864	12.618	-35.283
+LB02	-19.743	-24.398	-20.927	n/a	EmptyLabel	white matter	wm	mtl_ctx	-12.750	10.959	-35.152
+LB03	-24.163	-25.879	-20.844	n/a	EmptyLabel	white matter	wm	mtl_ctx	-17.225	9.647	-34.846
+LB04	-28.497	-27.150	-21.650	n/a	left parahippocampal	gray matter	mtl_ctx	mtl_ctx	-22.072	8.401	-35.626
 LB05	-33.580	-29.921	-21.884	n/a	left fusiform	gray matter	vtc	vtc	-26.959	6.742	-35.495
 LB06	-38.075	-32.151	-22.454	n/a	EmptyLabel	white matter	wm	vtc	-31.805	5.496	-36.274
 LB07	-42.963	-35.476	-21.587	n/a	EmptyLabel	white matter	wm	ltc	-36.292	3.819	-36.134

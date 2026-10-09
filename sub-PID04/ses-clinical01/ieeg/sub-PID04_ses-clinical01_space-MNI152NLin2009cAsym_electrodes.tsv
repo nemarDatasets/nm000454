@@ -6,27 +6,27 @@ LAT04	-44.008	-12.772	-46.001	n/a	EmptyLabel	CSF	n/a	ltc	-38.685	21.892	-23.635
 LDA01	-14.334	-9.652	-21.710	n/a	EmptyLabel	gray matter	n/a	hippocampus	-13.856	22.121	-3.515
 LDA02	-19.191	-10.193	-23.936	n/a	EmptyLabel	white matter	wm	hippocampus	-18.104	22.242	-5.857
 LDA03	-23.942	-10.930	-25.576	n/a	left hippocampus	white matter	hippocampus	hippocampus	-22.853	21.740	-7.285
-LDA04	-28.295	-10.682	-26.544	n/a	EmptyLabel	white matter	wm	hippocampus	-27.664	21.720	-8.677
-LDH01	-21.401	-22.226	-24.716	n/a	left parahippocampal	gray matter	mtl_ctx	hippocampus	-20.908	9.638	-7.124
-LDH02	-26.257	-21.048	-25.605	n/a	EmptyLabel	white matter	wm	hippocampus	-25.359	10.644	-8.403
+LDA04	-28.295	-10.682	-26.544	n/a	EmptyLabel	white matter	wm	mtl_ctx	-27.664	21.720	-8.677
+LDH01	-21.401	-22.226	-24.716	n/a	left parahippocampal	gray matter	mtl_ctx	mtl_ctx	-20.908	9.638	-7.124
+LDH02	-26.257	-21.048	-25.605	n/a	EmptyLabel	white matter	wm	mtl_ctx	-25.359	10.644	-8.403
 LDH03	-31.847	-19.962	-25.609	n/a	left parahippocampal	gray matter	mtl_ctx	vtc	-30.311	11.025	-8.767
 LDH04	-38.029	-19.025	-26.394	n/a	left fusiform	gray matter	vtc	vtc	-35.200	10.923	-9.166
 LPT01	-23.275	-50.867	-17.162	n/a	left cerebellem exterior	gray matter	n/a	n/a	-23.366	-17.585	-3.533
 LPT02	-31.090	-42.296	-24.220	n/a	left cerebellem exterior	gray matter	n/a	vtc	-29.125	-10.489	-9.445
 LPT03	-36.830	-35.598	-28.717	n/a	left fusiform	gray matter	vtc	n/a	-34.499	-3.982	-13.363
 LPT04	-44.783	-26.825	-31.244	n/a	EmptyLabel	CSF	n/a	ltc	-40.700	3.752	-15.231
-RAT01	17.789	-8.979	-30.161	n/a	right entorhinal	gray matter	mtl_ctx	hippocampus	14.363	23.884	-12.188
+RAT01	17.789	-8.979	-30.161	n/a	right entorhinal	gray matter	mtl_ctx	mtl_ctx	14.363	23.884	-12.188
 RAT02	24.664	-8.198	-40.075	n/a	EmptyLabel	CSF	n/a	vtc	21.038	23.311	-19.755
 RAT03	31.855	-8.015	-48.613	n/a	EmptyLabel	CSF	n/a	vtc	28.880	23.715	-25.135
 RAT04	41.412	-7.043	-52.230	n/a	EmptyLabel	CSF	n/a	ltc	38.292	25.073	-27.291
-RDA01	11.278	-8.038	-21.101	n/a	EmptyLabel	CSF	n/a	hippocampus	8.135	23.385	-2.661
-RDA02	16.224	-8.230	-21.955	n/a	EmptyLabel	gray matter	n/a	hippocampus	13.087	23.004	-2.297
-RDA03	21.605	-8.228	-23.503	n/a	right hippocampus	white matter	hippocampus	hippocampus	18.056	23.188	-2.891
+RDA01	11.278	-8.038	-21.101	n/a	EmptyLabel	CSF	n/a	mtl_ctx	8.135	23.385	-2.661
+RDA02	16.224	-8.230	-21.955	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	13.087	23.004	-2.297
+RDA03	21.605	-8.228	-23.503	n/a	right hippocampus	white matter	hippocampus	mtl_ctx	18.056	23.188	-2.891
 RDA04	27.101	-8.698	-23.573	n/a	right hippocampus	white matter	hippocampus	hippocampus	23.008	22.806	-2.527
-RDH01	16.735	-20.462	-20.512	n/a	EmptyLabel	CSF	n/a	hippocampus	14.110	9.737	-1.300
-RDH02	22.198	-19.585	-20.338	n/a	EmptyLabel	gray matter	n/a	hippocampus	18.877	10.805	-0.831
-RDH03	27.883	-19.869	-21.485	n/a	EmptyLabel	white matter	wm	hippocampus	23.846	10.989	-1.425
-RDH04	33.140	-18.626	-22.104	n/a	EmptyLabel	white matter	wm	hippocampus	28.815	11.173	-2.020
+RDH01	16.735	-20.462	-20.512	n/a	EmptyLabel	CSF	n/a	mtl_ctx	14.110	9.737	-1.300
+RDH02	22.198	-19.585	-20.338	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	18.877	10.805	-0.831
+RDH03	27.883	-19.869	-21.485	n/a	EmptyLabel	white matter	wm	mtl_ctx	23.846	10.989	-1.425
+RDH04	33.140	-18.626	-22.104	n/a	EmptyLabel	white matter	wm	mtl_ctx	28.815	11.173	-2.020
 RG01	38.933	-0.691	-51.755	n/a	EmptyLabel	CSF	n/a	ltc	36.242	32.038	-24.865
 RG02	47.239	-5.513	-47.403	n/a	right inferior temporal	gray matter	ltc	ltc	43.144	25.788	-21.811
 RG03	51.690	-12.194	-39.645	n/a	right inferior temporal	gray matter	ltc	ltc	45.928	18.259	-15.166

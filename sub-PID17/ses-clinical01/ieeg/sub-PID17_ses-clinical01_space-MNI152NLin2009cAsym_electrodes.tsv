@@ -57,7 +57,7 @@ LF11	-26.915	16.611	58.771	n/a	left superior frontal	gray matter	pfc	pfc	-21.527
 LF12	-26.578	19.662	65.422	n/a	left superior frontal	gray matter	pfc	pfc	-21.107	7.901	73.421
 LG01	-29.607	-40.695	-12.350	n/a	left fusiform	gray matter	vtc	vtc	-28.304	-15.538	-11.786
 LG02	-33.129	-43.517	-9.183	n/a	left fusiform	gray matter	vtc	vtc	-32.016	-18.896	-10.854
-LG03	-36.024	-46.702	-5.875	n/a	EmptyLabel	white matter	wm	hippocampus	-35.249	-22.575	-8.961
+LG03	-36.024	-46.702	-5.875	n/a	EmptyLabel	white matter	wm	mtl_ctx	-35.249	-22.575	-8.961
 LG04	-39.716	-50.660	-4.713	n/a	EmptyLabel	white matter	wm	ltc	-38.961	-25.932	-8.030
 LG05	-42.664	-53.327	-3.255	n/a	EmptyLabel	white matter	wm	ltc	-42.148	-28.827	-6.938
 LG06	-45.224	-54.662	1.970	n/a	EmptyLabel	white matter	wm	ltc	-45.870	-32.001	-4.900

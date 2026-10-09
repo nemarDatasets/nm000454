@@ -109,9 +109,9 @@ LM09	-44.928	-68.610	37.106	n/a	left inferior parietal	gray matter	parietal	pari
 LM10	-49.212	-69.867	34.957	n/a	left inferior parietal	gray matter	parietal	parietal	-45.807	-48.003	34.108
 LM11	-55.362	-70.722	34.933	n/a	EmptyLabel	CSF	n/a	parietal	-51.188	-48.152	33.775
 LM12	-60.587	-70.030	35.361	n/a	EmptyLabel	EmptyLabel	n/a	parietal	-56.069	-47.991	33.803
-RB01	23.120	-14.414	-28.002	n/a	EmptyLabel	white matter	wm	hippocampus	20.906	12.245	-8.987
-RB02	28.108	-13.069	-27.980	n/a	EmptyLabel	white matter	wm	hippocampus	25.807	12.829	-9.681
-RB03	33.082	-12.832	-28.276	n/a	EmptyLabel	white matter	wm	hippocampus	30.687	12.668	-9.709
+RB01	23.120	-14.414	-28.002	n/a	EmptyLabel	white matter	wm	mtl_ctx	20.906	12.245	-8.987
+RB02	28.108	-13.069	-27.980	n/a	EmptyLabel	white matter	wm	mtl_ctx	25.807	12.829	-9.681
+RB03	33.082	-12.832	-28.276	n/a	EmptyLabel	white matter	wm	mtl_ctx	30.687	12.668	-9.709
 RB04	37.778	-12.722	-30.909	n/a	EmptyLabel	white matter	wm	vtc	35.601	13.578	-10.040
 RB05	43.214	-12.452	-31.608	n/a	right inferior temporal	gray matter	ltc	ltc	40.481	13.418	-10.068
 RB06	49.282	-11.268	-32.823	n/a	EmptyLabel	white matter	wm	ltc	45.870	13.986	-10.766

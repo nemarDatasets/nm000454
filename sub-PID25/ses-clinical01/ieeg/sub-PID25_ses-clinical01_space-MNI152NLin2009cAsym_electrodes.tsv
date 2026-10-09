@@ -103,9 +103,9 @@ LK09	-61.532	-68.675	21.140	n/a	EmptyLabel	CSF	n/a	parietal	-54.323	-49.230	0.00
 LK10	-63.420	-71.563	25.826	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-56.726	-52.493	3.263
 LK11	-66.808	-74.056	30.799	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-60.107	-55.451	6.630
 LK12	-69.803	-76.396	35.840	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-63.032	-58.342	10.007
-RB01	21.963	-14.371	-26.352	n/a	EmptyLabel	white matter	wm	hippocampus	18.082	7.766	-21.163
-RB02	27.680	-12.799	-27.919	n/a	EmptyLabel	white matter	wm	hippocampus	23.016	9.208	-21.874
-RB03	33.194	-11.668	-27.837	n/a	EmptyLabel	white matter	wm	hippocampus	27.576	9.866	-21.763
+RB01	21.963	-14.371	-26.352	n/a	EmptyLabel	white matter	wm	mtl_ctx	18.082	7.766	-21.163
+RB02	27.680	-12.799	-27.919	n/a	EmptyLabel	white matter	wm	mtl_ctx	23.016	9.208	-21.874
+RB03	33.194	-11.668	-27.837	n/a	EmptyLabel	white matter	wm	mtl_ctx	27.576	9.866	-21.763
 RB04	39.580	-11.220	-30.917	n/a	right fusiform	gray matter	vtc	vtc	32.576	10.870	-22.602
 RB05	45.966	-9.531	-32.421	n/a	EmptyLabel	white matter	wm	ltc	37.576	11.874	-23.441
 RB06	50.548	-8.658	-32.269	n/a	right inferior temporal	gray matter	ltc	ltc	42.592	12.599	-23.320

@@ -11,9 +11,9 @@ LA09	-62.153	4.030	-28.395	n/a	left middle temporal	CSF	ltc	ltc	-63.062	25.369	3
 LA10	-66.739	4.312	-29.347	n/a	EmptyLabel	EmptyLabel	n/a	ltc	-67.861	26.295	3.096
 LA11	-71.628	4.778	-31.703	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-72.627	27.460	1.362
 LA12	-77.582	5.654	-31.523	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-78.420	28.135	1.761
-LB01	-22.705	-30.798	-14.671	n/a	EmptyLabel	white matter	wm	hippocampus	-23.717	-9.439	6.575
-LB02	-26.372	-28.775	-16.064	n/a	EmptyLabel	white matter	wm	hippocampus	-27.569	-7.126	5.761
-LB03	-29.618	-26.717	-18.695	n/a	left parahippocampal	white matter	mtl_ctx	hippocampus	-31.404	-4.196	4.159
+LB01	-22.705	-30.798	-14.671	n/a	EmptyLabel	white matter	wm	mtl_ctx	-23.717	-9.439	6.575
+LB02	-26.372	-28.775	-16.064	n/a	EmptyLabel	white matter	wm	mtl_ctx	-27.569	-7.126	5.761
+LB03	-29.618	-26.717	-18.695	n/a	left parahippocampal	white matter	mtl_ctx	mtl_ctx	-31.404	-4.196	4.159
 LB04	-33.885	-25.139	-22.006	n/a	left fusiform	gray matter	vtc	vtc	-35.718	-1.273	2.541
 LB05	-37.866	-21.687	-24.275	n/a	left fusiform	gray matter	vtc	ltc	-40.048	2.028	1.220
 LB06	-41.846	-18.850	-25.354	n/a	left inferior temporal	gray matter	ltc	ltc	-43.420	4.348	0.421
@@ -39,8 +39,8 @@ LD05	-69.444	-23.165	4.119	n/a	left superior temporal	CSF	stg	ltc	-68.053	-8.860
 LD06	-73.835	-22.857	5.902	n/a	EmptyLabel	EmptyLabel	n/a	ltc	-72.407	-9.160	24.770
 LD7	-78.392	-22.783	9.944	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-76.811	-10.314	27.579
 LD08	-82.942	-22.466	11.583	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-81.165	-10.614	28.518
-LE01	-25.531	-20.848	-23.808	n/a	EmptyLabel	white matter	wm	hippocampus	-27.593	3.956	1.737
-LE02	-30.381	-20.311	-24.017	n/a	EmptyLabel	white matter	wm	hippocampus	-32.410	4.266	1.873
+LE01	-25.531	-20.848	-23.808	n/a	EmptyLabel	white matter	wm	mtl_ctx	-27.593	3.956	1.737
+LE02	-30.381	-20.311	-24.017	n/a	EmptyLabel	white matter	wm	mtl_ctx	-32.410	4.266	1.873
 LE03	-35.268	-19.792	-24.283	n/a	EmptyLabel	gray matter	n/a	vtc	-37.691	4.191	1.697
 LE04	-41.267	-18.713	-24.041	n/a	left inferior temporal	gray matter	ltc	ltc	-42.973	4.116	1.520
 LE05	-46.303	-17.580	-25.194	n/a	left inferior temporal	gray matter	ltc	ltc	-47.292	5.050	0.885
@@ -76,7 +76,7 @@ LH06	-69.166	-52.636	-4.901	n/a	EmptyLabel	CSF	n/a	ltc	-68.009	-34.829	4.758
 LH07	-74.753	-54.393	-4.398	n/a	EmptyLabel	EmptyLabel	n/a	ltc	-72.797	-36.271	4.793
 LH08	-79.755	-55.950	-3.846	n/a	EmptyLabel	EmptyLabel	n/a	n/a	-77.106	-37.705	4.844
 LI01	-24.742	7.955	-28.861	n/a	left superior temporal	gray matter	stg	tpole	-26.155	32.759	4.005
-LI02	-26.229	3.844	-28.713	n/a	EmptyLabel	gray matter	n/a	hippocampus	-27.988	28.473	3.147
+LI02	-26.229	3.844	-28.713	n/a	EmptyLabel	gray matter	n/a	mtl_ctx	-27.988	28.473	3.147
 LI03	-27.427	-0.855	-26.300	n/a	EmptyLabel	white matter	wm	amygdala	-29.377	22.961	3.880
 LI04	-29.313	-4.668	-25.108	n/a	EmptyLabel	gray matter	n/a	hippocampus	-31.243	18.436	4.106
 LI05	-30.486	-8.724	-24.893	n/a	EmptyLabel	gray matter	n/a	hippocampus	-32.612	14.535	3.560

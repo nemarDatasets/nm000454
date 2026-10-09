@@ -9,8 +9,8 @@ AST01	18.008	2.273	-42.697	n/a	EmptyLabel	CSF	n/a	vtc	17.319	20.790	-29.537
 AST02	26.903	1.046	-50.313	n/a	right inferior temporal	gray matter	ltc	vtc	25.400	19.790	-34.521
 AST03	37.007	0.459	-50.337	n/a	right inferior temporal	CSF	ltc	ltc	35.243	19.601	-34.772
 AST04	47.435	0.351	-44.553	n/a	right inferior temporal	gray matter	ltc	ltc	43.872	18.503	-30.120
-DA01	16.819	-14.949	-22.244	n/a	EmptyLabel	CSF	n/a	hippocampus	16.888	3.534	-13.463
-DA02	21.934	-14.939	-21.186	n/a	right hippocampus	gray matter	hippocampus	hippocampus	22.185	3.628	-12.951
+DA01	16.819	-14.949	-22.244	n/a	EmptyLabel	CSF	n/a	mtl_ctx	16.888	3.534	-13.463
+DA02	21.934	-14.939	-21.186	n/a	right hippocampus	gray matter	hippocampus	mtl_ctx	22.185	3.628	-12.951
 DA03	27.287	-15.021	-20.436	n/a	right hippocampus	gray matter	hippocampus	hippocampus	27.075	3.744	-12.467
 DA04	32.807	-15.857	-19.064	n/a	right hippocampus	gray matter	hippocampus	hippocampus	31.881	3.517	-11.048
 DEC01	32.909	-8.814	-19.915	n/a	EmptyLabel	CSF	n/a	hippocampus	32.192	9.179	-11.078
