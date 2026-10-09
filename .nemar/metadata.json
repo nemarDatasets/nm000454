@@ -1,0 +1,155 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Alfredo Lucas": {
+      "orcid": "0000-0001-9439-735X"
+    },
+    "Mariam Josyula": {},
+    "Nina Petillo": {},
+    "Joost Wagenaar": {
+      "orcid": "0000-0003-0837-7120"
+    },
+    "Joel Stein": {},
+    "Sandhitsu Das": {},
+    "Nishant Sinha": {
+      "orcid": "0000-0002-2090-4889"
+    },
+    "Kathryn Davis": {},
+    "Tamjid Imtiaz": {
+      "orcid": "0000-0002-0267-993X"
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.26275/aosz-hj9u",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1038/s41597-026-07540-5",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1038/s41597-025-06075-5",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000454",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000454",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "NINDS",
+      "award_number": "K99NS138680"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "R01NS116504"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "R01NS125137"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "R61NS125568"
+    },
+    {
+      "funder_name": "NINDS",
+      "award_number": "U24NS134536"
+    },
+    {
+      "funder_name": "U.S. Department of Defense",
+      "award_number": "W81XWH2210593"
+    }
+  ],
+  "title": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG (Penn 3T-7T, Pennsieve 662)",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "anat",
+    "func",
+    "ieeg"
+  ],
+  "resource_type_specific": "Structural MRI Dataset",
+  "sizes": [
+    "213 GB (7636 files)"
+  ],
+  "formats": [
+    ".",
+    ".H",
+    ".K",
+    ".annot",
+    ".csv",
+    ".ctab",
+    ".dat",
+    ".dat~",
+    ".edf",
+    ".gii",
+    ".gz",
+    ".inflated",
+    ".jpg",
+    ".json",
+    ".label",
+    ".lta",
+    ".m3z",
+    ".mat",
+    ".md",
+    ".mgz",
+    ".mincost",
+    ".nii",
+    ".nofix",
+    ".param",
+    ".pial",
+    ".preaparc",
+    ".sum",
+    ".tsv",
+    ".txt",
+    ".white",
+    ".xfm",
+    ".xlsx"
+  ],
+  "description": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI (structural and resting-state fMRI) from 30 patients with drug-resistant focal epilepsy. Fifteen of the patients also have curated ictal and interictal intracranial EEG epochs (ECoG and SEEG), with electrode localization to MRI and atlas spaces. Derivatives from fMRIPrep, FreeSurfer, and iEEG-recon are included. The dataset is a BIDS redistribution of Pennsieve Discover dataset 662.",
+  "methods_description": "Paired 3T and 7T MRI were acquired, including structural and resting-state fMRI. Intracranial EEG was sampled at 500, 512 or 1024 Hz. Ictal epochs were selected from epileptologist notes. Interictal epochs were randomly chosen during wakefulness, more than 72 h after implantation and at defined intervals from seizures. Electrodes were manually identified on post-implant CT and mapped to pre-implant MRI with iEEG-recon, with atlas assignment (AAL, Lausanne, DKT).",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "7T MRI"
+    },
+    {
+      "term": "3T MRI"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Drug Resistant Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069279"
+    },
+    {
+      "term": "Magnetic Resonance Imaging",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D008279"
+    },
+    {
+      "term": "resting-state fMRI"
+    }
+  ],
+  "source_hash": "cfc827b2b1eee855082b161e85c5dd560f29ebcb59ccc473415cdcb76728fa48"
+}
