@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG (Penn 3T-7T, Pennsieve 662)",
+  "description": "A multimodal dataset of paired 3-Tesla and 7-Tesla MRI (structural and resting-state fMRI) from 30 patients with drug-resistant focal epilepsy. For 15 of these patients it also provides curated ictal and interictal intracranial EEG epochs, together with electrode localizations in MNI space and atlas labels. fMRIPrep and FreeSurfer derivatives and iEEG-recon outputs are included. This is a BIDS redistribution of Pennsieve Discover dataset 662.",
+  "methods_description": "Paired 3T and 7T MRI were acquired in patients with drug-resistant focal epilepsy. Intracranial EEG (ECoG grids/strips and/or SEEG depth electrodes) was sampled at 500, 512 or 1024 Hz. Ictal epochs were selected from epileptologist notes in the epilepsy monitoring unit. Interictal epochs were randomly selected during wakefulness, more than 72 h after implantation and at defined intervals from seizures. Electrodes were manually identified on post-implant CT and mapped to pre-implant MRI with iEEG-recon, with AAL, Lausanne and DKT atlas assignment.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Alfredo Lucas": {
       "orcid": "0000-0001-9439-735X"
@@ -20,6 +25,33 @@
       "orcid": "0000-0002-0267-993X"
     }
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "7T MRI"
+    },
+    {
+      "term": "3T MRI"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Drug Resistant Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069279"
+    },
+    {
+      "term": "electrode localization"
+    },
+    {
+      "term": "resting-state fMRI"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.26275/aosz-hj9u",
@@ -49,23 +81,23 @@
   ],
   "funding_references": [
     {
-      "funder_name": "NINDS",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "K99NS138680"
     },
     {
-      "funder_name": "NINDS",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "R01NS116504"
     },
     {
-      "funder_name": "NINDS",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "R01NS125137"
     },
     {
-      "funder_name": "NINDS",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "R61NS125568"
     },
     {
-      "funder_name": "NINDS",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "U24NS134536"
     },
     {
@@ -73,18 +105,15 @@
       "award_number": "W81XWH2210593"
     }
   ],
-  "title": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG (Penn 3T-7T, Pennsieve 662)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "Structural MRI Dataset",
   "modalities": [
     "anat",
     "func",
     "ieeg"
   ],
-  "resource_type_specific": "Structural MRI Dataset",
   "sizes": [
-    "213 GB (7636 files)"
+    "213 GB (7665 files)"
   ],
   "formats": [
     ".",
@@ -118,38 +147,8 @@
     ".txt",
     ".white",
     ".xfm",
-    ".xlsx"
+    ".xlsx",
+    ".yml"
   ],
-  "description": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI (structural and resting-state fMRI) from 30 patients with drug-resistant focal epilepsy. Fifteen of the patients also have curated ictal and interictal intracranial EEG epochs (ECoG and SEEG), with electrode localization to MRI and atlas spaces. Derivatives from fMRIPrep, FreeSurfer, and iEEG-recon are included. The dataset is a BIDS redistribution of Pennsieve Discover dataset 662.",
-  "methods_description": "Paired 3T and 7T MRI were acquired, including structural and resting-state fMRI. Intracranial EEG was sampled at 500, 512 or 1024 Hz. Ictal epochs were selected from epileptologist notes. Interictal epochs were randomly chosen during wakefulness, more than 72 h after implantation and at defined intervals from seizures. Electrodes were manually identified on post-implant CT and mapped to pre-implant MRI with iEEG-recon, with atlas assignment (AAL, Lausanne, DKT).",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "7T MRI"
-    },
-    {
-      "term": "3T MRI"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "Drug Resistant Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069279"
-    },
-    {
-      "term": "Magnetic Resonance Imaging",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D008279"
-    },
-    {
-      "term": "resting-state fMRI"
-    }
-  ],
-  "source_hash": "cfc827b2b1eee855082b161e85c5dd560f29ebcb59ccc473415cdcb76728fa48"
+  "source_hash": "5259752e7060e20fb5749235c86a127586efe7a01171b54a79f9955f4eba0e38"
 }
