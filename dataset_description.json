@@ -1,5 +1,5 @@
 {
-  "Name": "Imtiaz-2026-multimodal-10.1038/s41597-026-07540-5",
+  "Name": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG (Penn 3T-7T, Pennsieve 662)",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-4.0",
@@ -40,5 +40,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000454",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }

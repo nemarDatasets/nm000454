@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Imtiaz-2026-multimodal-10.1038/s41597-026-07540-5",
+  "title": "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG (Penn 3T-7T, Pennsieve 662)",
   "description": "This dataset provides paired 3-Tesla and 7-Tesla MRI (structural and resting-state fMRI) from 30 patients with drug-resistant focal epilepsy. For 15 of these patients it also includes curated ictal and interictal intracranial EEG epochs with electrode localization in MNI space. Derivatives from fMRIPrep, FreeSurfer and iEEG-recon are included. It supports research on multimodal imaging and epileptogenic networks.",
   "methods_description": "Patients underwent paired 3T and 7T MRI. Intracranial EEG (ECoG grids/strips and SEEG depth electrodes) was sampled at 500, 512 or 1024 Hz. Ictal epochs were selected from epileptologist notes. Interictal epochs were randomly selected during wakefulness under specified time constraints relative to implantation and seizures. Electrodes were localized on post-implant CT and mapped to pre-implant MRI with iEEG-recon.",
   "license": "CC-BY-4.0",
@@ -150,5 +150,5 @@
     ".xlsx",
     ".yml"
   ],
-  "source_hash": "432ca25c8f29246bd8b91e7b59d836de2baf7519f04f136ca476ae0fe4787064"
+  "source_hash": "6b7de09b55b3f9147b331ba4b460b1d168045572444e3e9406eab6568fca82a5"
 }
