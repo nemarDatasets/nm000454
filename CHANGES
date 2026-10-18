@@ -1,3 +1,7 @@
+1.0.3 2026-10-19
+  - events.tsv of sub-PID02 task-interictal141517 and task-interictal141764 (run-01): duration 100 s -> 91 s / 57 s, the length of the (truncated) EDF data; released files kept in sourcedata/events-original-2026-10-19/. Signal files unchanged.
+  - README.md: section "Two truncated interictal epochs".
+
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
 

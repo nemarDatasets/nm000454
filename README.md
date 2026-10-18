@@ -54,3 +54,16 @@ This dataset comprises multimodal paired 3T and 7T MRI scans collected from 30 p
   556 x fMRIPrep report figures/html (slices of the non-defaced T1w); 220 x FreeSurfer whole-head volume computed from non-defaced input (face visible, eye check); 216 x 7T B0 field maps released without defacing (magnitude images show the face); 119 x fMRIPrep preprocessed T1w (whole head; face visible for at least one subject, eye check); 45 x iEEG-recon head image: defacing incomplete for some subjects (eye check); 30 x iEEG-recon registration figure (slices of head MRI/CT); 18 x MP2RAGE UNIT1 image: removal of the face could not be confirmed on the eye check (noise-filled background); inversion images of the same scan are kept; 15 x clinical pre-implant T1w (T00mri): iEEG-recon copies of this scan still show the face for some subjects (eye check); 15 x clinical post-implant CT: facial skeleton/soft tissue not removed (eye check); 9 x FreeSurfer backup transforms (processing timestamp in the file name); 5 x anatomical image not released as defaced; 1 x spreadsheet has date/identifier-like cells or date formats (privacy; participants.tsv carries the clinical columns). They remain available from the original
   Pennsieve deposit.
 - Missing values are `n/a`; nothing was added that the paper or the deposit does not state.
+
+## Two truncated interictal epochs (corrected 2026-10-19, version 1.0.3)
+
+Every `events.tsv` has one row that labels the epoch (`ictal` from 30 s to the end of the file, `interictal` from 0 s to
+the end of the file); in 1,259 of the 1,261 files the row ends exactly at the end of the recording. In two interictal
+epochs of `sub-PID02` (`task-interictal141517`, `task-interictal141764`, run-01) the deposit's row said 100 s, but the EDF
+files (byte-identical to the deposit) are shorter: the header holds 91 and 57 data records of 1 s, and the
+file sizes hold 91.9863 and 57.6822 records, i.e. the export stopped inside the next record (the incomplete
+last record is ignored by EDF readers). Their EDF+ annotation channel is empty, while the two complete interictal files of the same
+subject that were checked (`interictal141949`, `interictal146208`) carry an `interictal` annotation over the whole file. `RecordingDuration` already gives 91 s and 57 s. The rows ran 9 s and 43 s past the end of
+the data; their `duration` is now the recorded length (91.0 s, 57.0 s), following the dataset's convention that the row
+covers the epoch present in the file. The released files are kept in `sourcedata/events-original-2026-10-19/`. Signal files are unchanged; the
+missing 9 s and 43 s of these two epochs are not in the deposit.
