@@ -1,3 +1,6 @@
+Unreleased (Oct 2026)
+  - sub-PID02: O01-O06, P01-P02, P05-P08 typed SEEG instead of EEG in 127 channels.tsv (1524 rows) and channel counts in the matching ieeg.json; evidence from the authors' iEEG-recon electrodes.tsv (README section).
+
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
 
